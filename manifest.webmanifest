@@ -1,0 +1,21 @@
+{
+ "short_name" :  "DMJJR",
+ "name": "Dictionnaire de Musique de Jean-Jacques Rousseau", 
+ "icons": [
+    {
+      "src": "/DOC/LOGO_Car.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    }
+ ],
+ "offline_enabled" : "true",
+ "id" : "home.html",
+ "start_url" : "/DOC/home.html",
+ "background_color": "#ADA685",
+ "display": "standalone",
+ "scope": "/",
+ "theme_color": "#ADA685",
+ "description": "Dictionnaire de Musique de JJR publié en 1768."
+ 
+}

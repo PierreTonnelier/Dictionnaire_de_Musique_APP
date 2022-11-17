@@ -1,0 +1,6175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DMJJR SYSTEM "../Structure/Structure_0.dtd">
+<DMJJR>
+	<ARTICLE RELU="OUI" id="DIMINUTION1">
+		<CDI>
+			<ITEM>DIMINUTION</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Vieux mot, qui signifioit la division d'une Note longue, comme une Ronde ou une
+					Blanche, en plusieurs autres Notes de moindre valeur. On entendoit encore par ce
+					mot tous les Fredons &amp; autres passages qu'on a depuis appellés <RENVOI
+					cible="ROULEMENS1">Roulemens</RENVOI> ou <RENVOI cible="ROULADES1"
+					>Roulades</RENVOI>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez ces mots)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DIOXIE1">
+		<CDI>
+			<ITEM>DIOXIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est, au rapport de Nicomaque, un nom que les Anciens donnoient quelquefois à
+					la Consonnance de la Quinte, qu'ils appelloient plus communément
+					<italic>Diapente</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="DIAPENTE1">DIAPENTE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DISJONCTION1">
+		<CDI>
+			<ITEM>DISJONCTION</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit, dans l'ancienne Musique, l'espace qui séparoit la Mèse de la Paramèse,
+					ou en général un Tétracorde du Tétracorde voisin, lorsqu'ils n'étoient pas
+					conjoints. Cet espace étoit d'un Ton, &amp; s'appelloit en Grec
+					<italic>Diazeuxis</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DISSONANCE_MAJEURE1">
+		<CDI>
+			<ITEM>DISSONANCE MAJEURE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est celle qui se sauve en montant. Cette <ITEM_TRAITE>Dissonance</ITEM_TRAITE> n'est telle
+					que relativement à la <italic>Dissonance mineure</italic>; car elle fait. Tierce
+					ou Sixte majeure sur le vrai Son fondamental, &amp; n'est autre que la Note
+					sensible, dans un Accord Dominant, ou la Sixte-ajoutée dans son Accord.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DISSONANT1">
+		<CDI>
+			<ITEM>DISSONANT</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>partie</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="DISSONNER1">DISSONNER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DISSONNER1">
+		<CDI>
+			<ITEM>DISSONNER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. n.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Il n'y a que les Sons qui <ITEM_TRAITE>dissonent</ITEM_TRAITE>, &amp; un Son
+					<ITEM_TRAITE>dissone</ITEM_TRAITE> quand il forme Dissonance avec un autre Son. On ne dit
+					pas qu'un Intervalle <ITEM_TRAITE>dissone</ITEM_TRAITE>, on dit qu'il est Dissonant.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="AFFETTUOSO1">
+		<CDI>
+			<ITEM>AFFETTUOSO</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>Pris adverbialement</italic>. Ce mot écrit à la tête d'un Air indique
+					un mouvement moyen entre l'<italic>Andante &amp; l'Adagio</italic>, &amp; dans
+					le caractere du Chant une expression affectueuse &amp; douce.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DITON1">
+		<CDI>
+			<ITEM>DITON</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est dans la Musique Grecque, un Intervalle composé de deux Tons; c'est-à-dire,
+					une Tierce majeure. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="INTERVALLE1">INTERVALLE</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="TIERCE1">TIERCE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DIX-HUITIEME1">
+		<CDI>
+			<ITEM>DIX-HUITIEME</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Intervalle qui comprend dix-sept Degrés conjoints, &amp; par conséquent <ITEM_TRAITE>dix-huit</ITEM_TRAITE>
+					Sons Diatoniques en comptant les deux extrêmes. C'est la double Octave de la
+					Quarte. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="QUARTE1">QUARTE</RENVOI>
+					<TXTDisparaitre>)</TXTDisparaitre>
+					</U_RENVOI></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DIX-NEUVIEME1">
+		<CDI>
+			<ITEM>DIX-NEUVIEME</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Intervalle qui comprend <ITEM_TRAITE>dix-huit</ITEM_TRAITE> Degrés conjoints, &amp; par conséquent <ITEM_TRAITE>dix-neuf</ITEM_TRAITE>
+					Sons Diatoniques en comptant les deux extrêmes. C'est la double Octave de la
+					Quinte. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="QUINTE1">QUINTE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="AGOGE1">
+		<CDI>
+			<ITEM>AGOGE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Conduite. Une des subdivisions de l'ancienne Mélopée, laquelle donne les regles
+					de la marche du Chant par degrés alternativement conjoints ou disjoints, soit en
+					montant, soit en descendant. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MÉLOPÉE1">MÉLOPÉE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+				<p>Martianus Cappella donne, après Aristide Quintilien, au mot
+					<ITEM_TRAITE>Agogé</ITEM_TRAITE>, un autre sens que j'exposé au mot <RENVOI cible="TIRADE1">TIRADE</RENVOI>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DOLCE1">
+		<CDI>
+			<ITEM>DOLCE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="D1">D</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DOMINANT1">
+		<CDI>
+			<ITEM>DOMINANT</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Accord <ITEM_TRAITE>Dominant</ITEM_TRAITE> ou sensible et celui qui se pratique sur la
+					<ITEM_TRAITE>Dominante</ITEM_TRAITE> du Ton, &amp; qui annonce la Cadence parfaite. Tout
+					Accord parfait majeur devient <ITEM_TRAITE>Dominant</ITEM_TRAITE>, si-tôt qu'on lui ajoute
+					la Septieme mineure.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DOMINANTE1">
+		<CDI>
+			<ITEM>DOMINANTE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Dans le Plain-Chant, est la Note que l'on rebat le plus souvent, à quelque Degré
+					que l'on soit de la Tonique. Il y a dans le Plain-Chant <ITEM_TRAITE>Dominante</ITEM_TRAITE> <italic>&amp;
+					Tonique</italic>, mais point de Médiante.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DOUBLE1">
+		<CDI>
+			<ITEM>DOUBLE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Intervalles <ITEM_TRAITE>Doubles</ITEM_TRAITE> ou <ITEM_TRAITE>redoublés</ITEM_TRAITE> sont tous
+					ceux qui excedent l'étendue de l'Octave <ITEM_TRAITE>redoublés</ITEM_TRAITE> sont tous qui excedent de 
+					l'Octave. En ce sens la Dixieme est <ITEM_TRAITE>double</ITEM_TRAITE> de la Tierce, &amp;
+					la Douzieme <ITEM_TRAITE>double</ITEM_TRAITE> de la Quinte. Quelques-uns donnent aussi le
+					nom d'Intervalles <ITEM_TRAITE>doubles</ITEM_TRAITE> à ceux qui sont composés de deux
+					Intervalles égaux, comme la Fausse-Quinte qui est composée de deux Tierces
+					mineures.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DOUBLER1">
+		<CDI>
+			<ITEM>DOUBLER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. a.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><ITEM_TRAITE>Doubler</ITEM_TRAITE> un Air, c'est y faire des Doubles;
+				<ITEM_TRAITE>Doubler</ITEM_TRAITE> un rôle, c'est y remplacer l'Acteur principal. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="DOUBLE1">DOUBLE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DOUBLE-CORDE1">
+		<CDI>
+			<ITEM>DOUBLE-CORDE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Maniere de jeu sur le Violon, laquelle consiste à toucher deux cordes à la fois
+					faisant deux Parties différentes. La <ITEM_TRAITE>Double-corde</ITEM_TRAITE> fait souvent beaucoup
+					d'effet. Il est difficile de jouer très-juste sur la <ITEM_TRAITE>Double-corde</ITEM_TRAITE>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DOUBLE-OCTAVE1">
+		<CDI>
+			<ITEM>DOUBLE-OCTAVE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Intervalle composé de deux Octaves, qu'on appelle autrement
+					<italic>Quinzieme</italic>, &amp; que les Grecs appelloient
+					<italic>Disdiapason</italic>.</p>
+				<p>La <ITEM_TRAITE>Double-Octave</ITEM_TRAITE> est en raison doublée de l'Octave simple, &amp;
+					c'est le seul Intervalle qui ne change pas de nom en se composant avec
+					lui-même.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DOUBLE-TRIPLE1">
+		<CDI>
+			<ITEM>DOUBLE-TRIPLE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ancien nom de la Triple de Blanches ou de la Mesure à trois pour deux, laquelle
+					se bat à trois Tems, &amp; contient une Blanche pour chaque Tems. Cette Mesure
+					n'est plus en usage qu'en France, ou même elle commence à s'abolir.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DRAMATIQUE1">
+		<CDI>
+			<ITEM>DRAMATIQUE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Cette épithete se donne à la Musique imitative, propre aux Pieces de Théâtre
+					qui se chantent, comme les Opéra. On l'appelle aussi Musique Lyrique.<U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="IMITATION1">IMITATION</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="E_SI_MI1" id2="E_LA_MI1" id3="E1">
+		<CDI>
+			<ITEMS>
+				<ITEM>E si mi</ITEM>
+				<TXTDisparaitre>,</TXTDisparaitre>
+				<ITEM>E la mi</ITEM>
+				<TXTDisparaitre>, ou simplement </TXTDisparaitre>
+				<ITEM>E</ITEM>
+				<TXTDisparaitre>.</TXTDisparaitre>
+			</ITEMS>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Troisieme Son de la Gamme de l'Arétin, que l'on appelle autrement
+					<italic>Mi</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voy.</TXTDisparaitre>
+					<RENVOI cible="GAMME1">GAMME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ECBOLE1" id2="ELÉVATION1">
+		<CDI>
+			<ITEMS>
+				<ITEM>ECBOLE</ITEM>
+				<TXTDisparaitre>, ou</TXTDisparaitre>
+				<ITEM>Elévation</ITEM>
+				<TXTDisparaitre>.</TXTDisparaitre>
+			</ITEMS>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit dans les plus anciennes Musiques Grecques, une altération du
+					Genre Enharmonique, lorsqu'une corde étoit accidentellement élevée de cinq
+					Dieses au-dessus de son Accord ordinaire.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ECLYSE1">
+		<CDI>
+			<ITEM>ECLYSE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Abaissement. C'étoit, dans les plus anciennes Musiques Grecques, une altération
+					dans le Genre Enharmonique, lorsqu'une corde étoit accidentellement abaissée de
+					trois Dièse au-dessus de son Accord ordinaire. Ainsi l'<ITEM_TRAITE>Eclyse</ITEM_TRAITE>
+					étoit le contraire du <RENVOI cible="SPONDÉASME1">Spondéasme</RENVOI>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ECMELE1">
+		<CDI>
+			<ITEM>ECMELE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Les Sons <ITEM_TRAITE>Ecmèles</ITEM_TRAITE> étoient, chez les Grecs, ceux de la voix
+					inappréciable ou parlante, qui ne peut fournir de Mélodie, par opposition aux
+					Sons <RENVOI cible="EMMÈLES">Emmèles</RENVOI> ou Musicaux.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ÉLÉGIE1">
+		<CDI>
+			<ITEM>ÉLÉGIE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Nom pour les Flûtes, inventé, dit-on, par <italic>Sacadas Argien</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ÉLÉVATION1">
+		<CDI>
+			<ITEM>ÉLÉVATION</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Arsis. L'<ITEM_TRAITE>Elévation</ITEM_TRAITE> de la main ou du pied, en battant la Mesure,
+					sert à marquer le Tems foible &amp; s'appelle proprement Levé: c'étoit le
+					contraire chez les Anciens. L'<ITEM_TRAITE>Elévation</ITEM_TRAITE> de la voix en chantant,
+					c'est le mouvement par lequel on la porte à l'aigu.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ELINE1">
+		<CDI>
+			<ITEM>ELINE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom donne par les Grecs à la Chanson des Tisserands. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CHANSON1">CHANSON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="EMMELE1">
+		<CDI>
+			<ITEM>EMMELE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Les Sons <ITEM_TRAITE>Emmèles</ITEM_TRAITE> étoient chez les Grecs ceux de la voix
+					distincte, chantante &amp; appréciable, qui peuvent donner une Mélodie.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ENDEMATIE1">
+		<CDI>
+			<ITEM>ENDEMATIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit l'Air d'une sorte de Danse particulier aux Argiens.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="EPIAULIE1">
+		<CDI>
+			<ITEM>EPIAULIE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom que donnoient les Grecs à la Chanson des Meuniers, appellée autrement
+					<italic>Hymée</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="CHANSON1">CHANSON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+				<p>Le mot burlesque <italic>piauler</italic> ne tireroit-il point d'ici son
+					étymologie? Le piaulement d'une femme ou d'un enfant, qui pleure &amp; se
+					lamente long-tems sur le même Ton, ressemble assez à la Chanson d'un moulin,
+					&amp; par métaphore, à celle d'un Meunier.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="EPILENE1">
+		<CDI>
+			<ITEM>EPILENE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Chanson des Vendangeurs, laquelle s'accompagnoit de la Flûte. (Voyez Athénée,
+					Livré V.)</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="EPINICION1">
+		<CDI>
+			<ITEM>EPINICION</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Chant de victoire, par lequel on célébroit chez les Grecs le triomphe des
+					Vainqueurs.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="EPISYNAPHE1">
+		<CDI>
+			<ITEM>EPISYNAPHE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est, au rapport de Bacchius, la conjonction des trois Tétracordes consécutifs,
+					comme sont les Tétracordes <italic>Hypaton, Méson &amp; Synnéménon</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SYSTEME1">SYSTEME</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="TÉTRACORDE1">TÉTRACORDE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="EPITRITE1">
+		<CDI>
+			<ITEM>EPITRITE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom d'un des Rhythmes de la Musique Grecque, duquel les Tems étoient en raison
+					sesquitierce ou de 3 à 4. Ce Rythme étoit représenté par le pied que les Poetes
+					&amp; Grammairiens appellent aussi <ITEM_TRAITE>Epitrite</ITEM_TRAITE>; pied composé de
+					quatre syllabes, dont les deux premieres sont en effet aux deux dernieres dans
+					la raison de 3 à 4. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="RHYTHME1">RHYTHME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="EPTAPHONE1">
+		<CDI>
+			<ITEM>EPTAPHONE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom d'un Portique de la Ville d'Olympie, dans lequel on avoit ménagé un écho qui
+					répétoit la Voix sept sois de suite. Il y a brande apparence que l'écho se
+					trouva là par hasard, &amp; qu'ensuite les Grecs, grands charlatans, en firent
+					honneur à l'art de l'Architecte.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ÉVITER1">
+		<CDI>
+			<ITEM>ÉVITER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. a.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><ITEM_TRAITE>Eviter</ITEM_TRAITE> une Cadence, c'est ajouter une Dissonance à l'Accord
+					final, pour changer le Mode ou prolonger la phrase. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CADENCE1">CADENCE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ÉVITÉ1">
+		<CDI>
+			<ITEM>ÉVITÉ</ITEM>
+			<U_GRAMMAIRE>
+				<texte>participe</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Cadence <ITEM_TRAITE>Evitée</ITEM_TRAITE>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="CADENCE1">CADENCE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="EUTHIA1">
+		<CDI>
+			<ITEM>EUTHIA</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Terme de la Musique Grecque, qui signifie une suite de Notes procédant du grave
+					à l'aigu. L'<ITEM_TRAITE>Euthia</ITEM_TRAITE> étoit une des Parties de l'ancienne
+					Mélopée.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="EXACORDE1">
+		<CDI>
+			<ITEM>EXACORDE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Instrument à six cordes, ou systême composé de six Sons, tel que
+					l'<ITEM_TRAITE>Exacorde</ITEM_TRAITE> de Gui d'Arezzo</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="EXÉCUTANT1">
+		<CDI>
+			<ITEM>EXÉCUTANT</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>partir. pris subst</italic>. Musicien qui exécute sa Partie dans un
+					Concert; c'est la même chose que Concertant. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CONCERTANT1">CONCERTANT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> Voyez aussi les deux mots qui suivent.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="EXTENSION1">
+		<CDI>
+			<ITEM>EXTENSION</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est, selon Aristoxène, une des quatre parties de la Mélopée qui consiste à
+					soutenir long-tems certains Sons &amp; au-de-là même de leur quantité
+					grammaticale. Nous appellons aujourd'hui Tenues les Sons ainsi soutenus.<U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="TENUE1">TENUE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="F1" id2="F_UT_FA1" id3="F_FA_UT1">
+		<CDI>
+			<ITEMS>
+			<ITEM>F ut fa</ITEM>
+				<TXTDisparaitre>, </TXTDisparaitre>
+				<ITEM>f fa ut</ITEM>
+				<TXTDisparaitre> ou simplement </TXTDisparaitre>
+				<ITEM>F</ITEM>
+			</ITEMS>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Quatrieme Son de la Gamme
+					Diatonique &amp; naturelle, lequel s'appelle autrement Fa. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="GAMME1">GAMME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+				<p>C'est aussi le nom de la plus basse des trois Clefs de la Musique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="CLEF1">CLEF</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="FACTEUR1">
+		<CDI>
+			<ITEM>FACTEUR</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ouvrier qui fait des Orgues ou des Clavecins.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="FAUCET1">
+		<CDI>
+			<ITEM>FAUCET</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="FAUSSET1">FAUSSET</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="FAUSSE-QUARTE1">
+		<CDI>
+			<ITEM>FAUSSE-QUARTE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="QUARTE1">QUARTE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="FAUSSE-RELATION1">
+		<CDI>
+			<ITEM>FAUSSE-RELATION</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Intervalle diminué ou superflu.<U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="RELATION1">RELATION</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="FAUX-ACCORD1">
+		<CDI>
+			<ITEM>FAUX-ACCORD</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Accord discordant, soit parce qu'il contient des Dissonances proprement dites,
+					soit parce que les Consonnances n'en sont pas justes. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="ACCORD_FAUX1">ACCORD FAUX</RENVOI>
+					<TXTDisparaitre> )</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="AL_SEGNO1">
+		<CDI>
+			<ITEM>AL SEGNO</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ces mots écrits à la fin d'un <italic>Air</italic> en Rondeau, manquent qu'il
+					faut reprendre la premiere Partie, non tout-à-fait au commencement, mais à
+					l'endroit où est marqué le renvoi.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="FI1">
+		<CDI>
+			<ITEM>FI</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Syllabe avec laquelle quelques Musiciens solfient le <italic>fa</italic> Dièse,
+					comme ils solfient par <italic>ma</italic> le <italic>mi</italic> Bémol; ce qui
+					paroît assez bien entendu. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="SOLFIER1">SOLFIER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ALLA_BREVE1">
+		<CDI>
+			<ITEM>ALLA BREVE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Terme Italien qui marque une sorte de Mesure à deux Tems fort vite, &amp; qui se
+					note pourtant avec une Ronde ou semi-breve par Tems. Elle n'est plus gueres
+					d'usage qu'en Italie, &amp; seulement dans la Musique d'Eglise. Elle répond
+					assez à ce qu'on appelloit en France du <italic>Gros-fa</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="FIXE1">
+		<CDI>
+			<ITEM>FIXE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Cordes ou Sons <ITEM_TRAITE>Fixes</ITEM_TRAITE> ou stables. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="SON1">SON</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="STABLE1">STABLE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="FLATTE1">
+		<CDI>
+			<ITEM>FLATTE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Agrément du Chant François, difficile à définir; mais dont on comprendra
+					suffisamment l'effet par un exemple. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="" planche="OUI" page="B" vignette="13">Pl.B. Fig. 13.</RENVOI>
+					<TXTDisparaitre> au mot </TXTDisparaitre>
+					<RENVOI cible="FLATTE1">FLATTE</RENVOI>
+					<TXTDisparaitre>)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="FOIBLE1">
+		<CDI>
+			<ITEM>FOIBLE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Tems <italic>foible</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="TEMS1">TEMS</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ALLA_ZOPPA1">
+		<CDI>
+			<ITEM>ALLA ZOPPA</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Terme Italien qui annonce un mouvement contraint, &amp; syncopant entre deux
+					Tems, sans syncoper entre deux Mesures; ce qui donne aux Notes une marche 
+					inégale &amp; comme boiteuse. C'est un avertissement que cette même marche
+					continue ainsi jusqu'à la fin de l'Air.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="FORCER1">
+		<CDI>
+			<ITEM>FORCER (la voix)</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est excéder en haut ou en bas son Diapason, ou son
+					volume à <ITEM_TRAITE>force</ITEM_TRAITE> d'haleine; c'est crier au lieu de chanter. Toute
+					voix qu'on force perd sa justesse cela arrive même aux Instrumens où l'on force 
+					l'archet ou le vent; &amp; voilà pourquoi les François chantent rarement
+					juste.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="FORLANE1">
+		<CDI>
+			<ITEM>FORLANE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Air d'une Danse de même nom commune à Venise, sur-tout parmi les Gondoliers. Sa
+					Mesure est à 6/8; elle se bat gaiement, &amp; la Danse est aussi fort gaie. On
+					l'appelle <ITEM_TRAITE>Forlane</ITEM_TRAITE> parce qu'elle a pris naissance dans le
+					Frioul, dont les habitans s'appellent <italic>Forlans</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="FORT1">
+		<CDI>
+			<ITEM>FORT</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Tems <italic>fort</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="TEMS1">TEMS</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="FUGUE_RENVERSÉE1">
+		<CDI>
+			<ITEM>FUGUE RENVERSÉE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est une <ITEM_TRAITE>Fugue</ITEM_TRAITE> dont la réponse se fait par Mouvement
+					contraire à celui du sujet. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CONTRE-FUGUE1">CONTRE-FUGUE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="GAILLARDE1">
+		<CDI>
+			<ITEM>GAILLARDE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Air à trois Tems gais d'une Danse de même nom. On la nommoit autrefois
+					<italic>Romanesque</italic>, parce qu'elle nous est, dit-on, venue de Rome, ou
+					du moins d'Italie.</p>
+				<p>Cette Danse est hors d'usage depuis long-tems. Il en est resté seulement un Pas
+					appellé, <ITEM_TRAITE>Pas de Gaillarde</ITEM_TRAITE>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ALLEMANDE1">
+		<CDI>
+			<ITEM>ALLEMANDE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est aussi l'air d'une Danse fort commune en Suisse &amp; en Allemagne. Cet Air,
+					ainsi que la Danse, à beaucoup de gaieté: il se bat à deux tems.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ALTUS1">
+		<CDI>
+			<ITEM>ALTUS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI><TXTDisparaitre>Voyez </TXTDisparaitre><RENVOI cible="HAUTE-CONTRE1">HAUTE-CONTRE</RENVOI><TXTDisparaitre>.</TXTDisparaitre></U_RENVOI></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="GIGUE1">
+		<CDI>
+			<ITEM>GIGUE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Air d'une Danse de même nom, dont la Mesure est à six-huit &amp; d'un Mouvement
+					assez gai. Les Opéra François contiennent beaucoup de <ITEM_TRAITE>Gigues</ITEM_TRAITE>,
+					&amp; les <ITEM_TRAITE>Gigues</ITEM_TRAITE> de Correlli ont été long-tems célebres: mais
+					ces Airs sont entiérement passés de Mode; on n'en fait plus du tout en
+					Italie,&amp; l'on n'en fait plus gueres en France.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="GRAVE_ou_GRAVEMENT1">
+		<CDI>
+			<ITEMS>
+				<ITEM>GRAVE</ITEM>
+				<TXTDisparaitre> ou </TXTDisparaitre>
+				<ITEM>GRAVEMENT</ITEM>
+			</ITEMS>
+			<U_GRAMMAIRE QUICK="adv">
+				<texte>Adverbe</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>qui marque lenteur dans le mouvement, &amp; de plus, une certaine gravité dans
+					l'exécution.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="GRAVE1">
+		<CDI>
+			<ITEM>GRAVE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>est opposé à aigu. Plus les vibrations du corps sonore sont lentes, plus le Son
+					est <ITEM_TRAITE>Grave</ITEM_TRAITE>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SON1">SON</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="GRAVITÉ1">GRAVITÉ</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="GROS-FA1">
+		<CDI>
+			<ITEM>GROS-FA</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Certaines vieilles Musiques d'Eglise, en Notes Quarrées, Rondes ou Blanches,
+					s'appelloient jadis du <ITEM_TRAITE>Gros-fa</ITEM_TRAITE>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="GUIDE1">
+		<CDI>
+			<ITEM>GUIDE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est la Partie qui entre la première dans une Fugue &amp; annonce le sujet. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="FUGUE1">FUGUE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> Ce mot, commun en Italie, est peu usité en France dans le même
+					sens.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="GYMNOPEDIE1">
+		<CDI>
+			<ITEM>GYMNOPEDIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Air ou Nome sur lequel dansoient à nud les jeunes Lacédémoniennes.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HARMATIAS1">
+		<CDI>
+			<ITEM>HARMATIAS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom d'un Nome dactylique de la Musique Grecque, inventé par le premier Olympe
+					Phrygien.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="AMOROSO1">
+		<CDI>
+			<ITEM>AMOROSO</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI><TXTDisparaitre>Voyez </TXTDisparaitre><RENVOI cible="TENDREMENT1">TENDREMENT</RENVOI><TXTDisparaitre>.</TXTDisparaitre></U_RENVOI></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HARMONIE2">
+		<CDI>
+			<ITEM>HARMONIE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Genre de Musique. Les Anciens ont souvent donne ce nom au Genre appellé plus
+					communément <italic>Genre Enharmonique</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="ENHARMONIQUE1">ENHARMONIQUE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ANACAMPTOS1">
+		<CDI>
+			<ITEM>ANACAMPTOS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Terme de la Musique Grecque, qui signifie une suite de Notes rétrogrades, ou
+					procédant de l'aigu au grave; c'est le contraire de l'<italic>Euthia</italic>.
+					Une des parties de l'ancienne Mélopée portoit aussi le nom
+					d'<ITEM_TRAITE>Anacamptosa</ITEM_TRAITE> <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="MELOPEE1">MELOPEE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HARMONIEUX1">
+		<CDI>
+			<ITEM>HARMONIEUX</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Tout ce qui fait de l'effet dans l'Harmonie, &amp; même quelquefois tout ce qui
+					est sonore &amp; remplit l'oreille dans les Voix, dans les Instrumens, dans la
+					simple mélodie.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HARMONIQUES1">
+		<CDI>
+			<ITEM>HARMONIQUES</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce qui appartient à l'Harmonie; comme les divisions
+					<ITEM_TRAITE>Harmoniques</ITEM_TRAITE> du Monocorde, la Proportion
+					<ITEM_TRAITE>Harmonique</ITEM_TRAITE>, le Canon <ITEM_TRAITE>Harmonique</ITEM_TRAITE>, &amp;c.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HARMONIQUE1">
+		<CDI>
+			<ITEM>HARMONIQUE</ITEM>
+			<U_GRAMMAIRE>
+				<texte>s. des deux genres.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>On appelle ainsi tous les Sons concomitans
+					ou accessoires qui, par le principe de la résonnance, accompagnent un Son
+					quelconque &amp; le rendent appréciable. Aine toutes les aliquotes d'une corde
+					sonore en donnent les <ITEM_TRAITE>Harmoniques</ITEM_TRAITE>. Ce mot s'emploie au masculin
+					quand on sous-entend le mot <italic>Son</italic>, &amp; au féminin quand on
+					sous-entend le mot <italic>Corde</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="SONS_HARMONIQUES1">
+		<CDI>
+			<ITEM>SONS HARMONIQUES</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SON1">SON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HARMONISTE1">
+		<CDI>
+			<ITEM>HARMONISTE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Musicien savant dans l'Harmonie. C'est un bon <ITEM_TRAITE>Harmoniste</ITEM_TRAITE>. Durante est le
+					plus grand <ITEM_TRAITE>Harmoniste</ITEM_TRAITE> de l'Italie; c'est-à-dire, du <bold>MONDE</bold>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HARPALICE1">
+		<CDI>
+			<ITEM>HARPALICE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Chanson propre aux filles parmi les anciens Grecs. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CHANSON1">CHANSON</RENVOI>
+					<TXTDisparaitre>)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HAUT-DESSUS1">
+		<CDI>
+			<ITEM>HAUT-DESSUS</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est, quand les Dessus chantans se subdivisent, la Partie supérieure. Dans les
+					Parties instrumentales on dit toujours <italic>premier Dessus &amp; second
+					Dessus;</italic> mais dans le vocal on dit quelquefois <ITEM_TRAITE>Haut-dessus</ITEM_TRAITE> &amp;
+					Bas-dessus.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HAUTE-TAILLE1" id2="TENOR1">
+		<CDI>
+			<ITEMS><ITEM>HAUTE-TAILLE</ITEM><TXTDisparaitre>, </TXTDisparaitre><ITEM>TENOR</ITEM></ITEMS>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est cette Partie de la Musique qu'on appelle aussi simplement
+					<italic>Taille</italic>. Quand la Taille se subdivise en deux autres Parties,
+					l'inférieure prend le nom de <italic>Basse-taille</italic> ou Concordant, &amp;
+					la supérieure s'appelle <ITEM_TRAITE>Haute-taille.</ITEM_TRAITE></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HEMI1">
+		<CDI>
+			<ITEM>HEMI</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Mot Grec fort usité dans la Musique, &amp; qui signifie <italic>Demi ou
+					moitié</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SEMI1">SEMI</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HEMIDITON1">
+		<CDI>
+			<ITEM>HEMIDITON</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit, dans la Musique Grecque, l'Intervalle de Tierce majeure, diminuée d'un
+					semi-Ton; c'est-à-dire, la Tierce mineure. L'<ITEM_TRAITE>Hémiditon</ITEM_TRAITE> n'est
+					point, comme on pourroit croire, la moitié du Diton ou le Ton: mais c'est le
+					Diton moins la moitié d'un <italic>Ton</italic>; ce qui est tout différent.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HEMIOLIEN1">
+		<CDI>
+			<ITEM>HEMIOLIEN</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est le nom que donne Aristoxène à l'une des trois especes du Genre
+					Chromatique, dont il explique les divisions. Le Tétracorde 30 y est partagé en
+					trois Intervalles, dont les deux premiers, égaux entr'eux, sont chacun la
+					sixieme partie, &amp; dont le troisieme est les deux tiers. <bold>5+5+20=30</bold>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HEPTACORDE1" id2="HEPTAMERIDE1" id3="HEPTAPHONE1 HEXACORDE1">
+		<CDI>
+			<ITEMS>
+				<ITEM>HEPTACORDE</ITEM>
+				<TXTDisparaitre>, </TXTDisparaitre>
+				<ITEM>HEPTAMERIDE</ITEM>
+				<TXTDisparaitre>, </TXTDisparaitre>
+				<ITEM>HEPTAPHONE</ITEM>
+				<TXTDisparaitre>, </TXTDisparaitre>
+				<ITEM>HEXACORDE &amp;c.</ITEM>
+			</ITEMS>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="EPTACORDE1">EPTACORDE</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="EPTAMERIDE1">EPTAMERIDE</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="EPTAPHONE1">EPTAPHONE</RENVOI>
+					<TXTDisparaitre>, &amp;c.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HERMOSMENON1">
+		<CDI>
+			<ITEM>HERMOSMENON</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MOEURS1">MOEURS</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HEXARMONIEN1">
+		<CDI>
+			<ITEM>HEXARMONIEN</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nome, ou Chant d'une Mélodie efféminée &amp; lâche, comme Aristophane le
+					reproche à Philoxène son Auteur.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HOMOPHONIE1">
+		<CDI>
+			<ITEM>HOMOPHONIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit, dans la Musique Grecque cette espece de Symphonie qui se faisoit à
+					l'Unisson, par opposition à l'Antiphonie qui s'exécutoit à l'Octave. Ce mot
+					vient de <AUTRE>ομος</AUTRE>, pareil, &amp; de <AUTRE>φωνη</AUTRE>, Son.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HYMEE1">
+		<CDI>
+			<ITEM>HYMEE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Chanson des Meuniers chez les anciens Grecs, autrement dite Epiaulie. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre><RENVOI cible="EPIAULIE1">EPIAULIE</RENVOI><TXTDisparaitre> ce mot.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HYMÉNÉE1">
+		<CDI>
+			<ITEM>HYMÉNÉE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Chanson des noces chez les anciens Grecs, autrement dite
+					<italic>Epithalame</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="EPITHALAME1">EPITHALAME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HYPATE-HYPATON1">
+		<CDI>
+			<ITEM>HYPATE-HYPATON</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit la plus basse corde du plus bas Tétracorde des Grecs, &amp; d'un Ton
+					plus haut que la Proslambanomene. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="HYPATE1">l'Article précédent</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HYPATE-MÉSON1">
+		<CDI>
+			<ITEM>HYPATE-MÉSON</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit la plus basse corde du second Tétracorde, laquelle étoit aussi la plus
+					aiguë du premier, parce que ces deux Tétracordes étoient conjoints. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="HYPATE1">HYPATE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HYPATOIDES1">
+		<CDI>
+			<ITEM>HYPATOIDES</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sons graves. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="LEPSIS1">LEPSIS</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HYPERBOLEIEN1">
+		<CDI>
+			<ITEM>HYPERBOLEIEN</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nome ou Chant de même caractere que l'Hexarmonien.<U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="HEXARMONIEN1">HEXARMONIEN</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HYPERBOLEON1">
+		<CDI>
+			<ITEM>HYPERBOLEON</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Le Tétracorde <ITEM_TRAITE>Hyperboléon</ITEM_TRAITE> étoit le plus aigu des cinq
+					Tétracordes du Systême des Grecs.</p>
+				<p>Ce mot est le génitif du substantif pluriel <AUTRE>υπεπζολαι</AUTRE>, Sommets,
+					<italic>Extrémités</italic>; les Sons les plus aigus étant à l'extrémité des
+					autres.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HYPER-DIAZEUXIS1">
+		<CDI>
+			<ITEM>HYPER-DIAZEUXIS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Disjonction de deux Tétracordes séparés par l'Intervalle d'une Octave, comme
+					étoient le Tétracorde des Hypates &amp; celui des Hyperbolées.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HYPER-DORIEN1">
+		<CDI>
+			<ITEM>HYPER-DORIEN</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Mode de la Musique Grecque, autrement appellé <italic>Mixo-Lydien</italic>,
+					duquel la fondamentale ou Tonique étoit une Quarte au-dessus du celle Dorien. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MODE1">MODE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+				<p>On attribue à Pythoclide l'invention du Mode <ITEM_TRAITE>Hyper-Dorien.</ITEM_TRAITE></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ANONNER1">
+		<CDI>
+			<ITEM>ANONNER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. n.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est déchiffrer avec peine &amp; en hésitant la Musique qu'on a sous les
+					yeux.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HYPER-IASTIEN1" id2="MIXO-LYDIEN_AIGU1">
+		<CDI>
+			<ITEMS><ITEM>HYPER-IASTIEN</ITEM><TXTDisparaitre>, ou </TXTDisparaitre><ITEM>Mixo-Lydien aigu</ITEM></ITEMS>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est le nom qu'Euclide &amp; plusieurs
+					Anciens donnent au Mode appellé plus communément
+					<italic>Hyper-Ionien.</italic></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="HYPER-IONIEN1">
+		<CDI>
+			<ITEM>HYPER-IONIEN</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Mode de la Musique Grecque, appellé aussi par quelques-uns Hyper-Iastien, ou
+					<italic>Mixo-Lydien aigu</italic>; lequel avoit si fondamentale une Quarte
+					au-dessus de celle du Mode Ionien. est le douzieme en ordre du grave à l'aigu,
+					selon le dénombrement d'Alypius <U_RENVOI>
+					<TXTDisparaitre>(Voy.</TXTDisparaitre>
+					<RENVOI cible="MODE1">MODE</RENVOI>
+					<TXTDisparaitre>)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="HYPER-LYDIEN1">
+		<CDI>
+			<ITEM>HYPER-LYDIEN</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Le plus aigu des quinze Modes de la Musique des Grecs, duquel la fondamentale
+					étoit une Quarte au-dessus de celle du Mode Lydien. Ce Mode, non plus que son
+					voisin l'Hyper-Eolien, n'étoit pas si ancien que les treize autres; &amp;
+					Aristoxène qui les nomme tous, ne fait aucune mention de ces deux-là. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MODE1">MODE</RENVOI>
+					<TXTDisparaitre>)</TXTDisparaitre>
+					</U_RENVOI> .</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="HYPER-MIXO-LYDIEN1">
+		<CDI>
+			<ITEM>HYPER-MIXO-LYDIEN</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Un des Modes de la Musique Grecque, autrement appellé <RENVOI
+					cible="HYPER-PHRYGIEN1">Hyper-Phrygien</RENVOI>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez ce mot.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="HYPER-PHRYGIEN1">
+		<CDI>
+			<ITEM>HYPER-PHRYGIEN</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>appellé aussi par Euclide, <italic>Hyper-mixo-Lydien</italic>, est le plus aigu
+					des treize Modes d'Aristoxène, faisant le Diapason ou l'Octave avec
+					l'Hypo-Dorien le plus grave de tous. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="MODE1">MODE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="HYPO-DIAZEUXIS1">
+		<CDI>
+			<ITEM>HYPO-DIAZEUXIS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est, selon le vieux Bacchius, l'Intervalle de Quinte qui se trouvé entre deux
+					Tétracordes séparés par une disjonction, &amp; de plus par un troisieme
+					Tétracorde intermédiaire. Ainsi il y a <italic>Hypo-Dyazeuxis</italic> entre les
+					Tétracordes Hypaton &amp; Diézeugménon, &amp; entre les Tétracordes Synnéménon
+					&amp; Hyperboléon. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="TÉTRACORDE1">TÉTRACORDE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="HYPO-EOLIEN1">
+		<CDI>
+			<ITEM>HYPO-EOLIEN</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Mode de l'ancienne Musique, appellé aussi par Euclide, <italic>Hypo-Lydien
+					grave</italic>. Ce Mode a sa fondamentale une Quarte au-dessous de celle du Mode
+					éolien. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MODE1">MODE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> HYPO-IASTIEN. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="HYPO-IONIEN1">HYPO-IONIEN</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="HYPO-IONIEN1">
+		<CDI>
+			<ITEM>HYPO-IONIEN</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Le second des Modes de l'ancienne Musique, en commençant par le grave. Euclide
+					l'appelle aussi <italic>Hypo-Iastien </italic> &amp;
+					<italic>Hypo-Phrygien</italic> grave. Sa fondamentale est une Quarte au-dessus
+					de celle du Mode Ionien. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MODE1">MODE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="HYPO-PROSLAMBANOMENOS1">
+		<CDI>
+			<ITEM>HYPO-PROSLAMBANOMENOS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom d'une corde ajoutée, à ce qu'on prétend, par Gui d'Arezzo un Ton plus bas
+					que la Proslambanomene des Grecs; c'est-à-dire, au-dessous de tout le systême.
+					L'Auteur de cette nouvelle corde l'exprima par la lettre r de l'Alphabet Grec,
+					&amp; de-là nous est venu le nom de la <italic>Gamme.</italic></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="HYPORCHEMA1">
+		<CDI>
+			<ITEM>HYPORCHEMA</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Cantique sur lequel on dansoit aux fêtes des Dieux.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="HYPO-SYNAPHE1">
+		<CDI>
+			<ITEM>HYPO-SYNAPHE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est, dans la Musique des Grecs, la disjonction des deux Tétracordes séparés par
+					l'interposition d'un troisieme Tétracorde conjoint avec chacun des deux; en
+					sorte que les cordes homologues de deux Tétracordes disjoints par
+					H<italic>ypo-Synaphe</italic>, ont entr'elles cinq Tons ou une Septieme mineure
+					d'Intervalle. Tel sont les deux Tétracordes <italic>Hypaton &amp;
+					Synnéménon.</italic></p>
+				<p><italic> </italic></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="IALEME1">
+		<CDI>
+			<ITEM>IALEME</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Chant funebre jadis en usage parmi les Grecs, comme le Linos chez le
+					même Peuple, &amp; le Manéros chez les Egyptiens. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CHANSON1">CHANSON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="IASTIEN1">
+		<CDI>
+			<ITEM>IASTIEN</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom donne par Aristoxène &amp; Alypius au Mode que les autres Auteurs appellent
+					plus communément <italic>Ionien</italic>.<U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MODE1">Mode</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="JEU1">
+		<CDI>
+			<ITEM>JEU</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>L'action de jouer d'un Instrument.<U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="JOUER1">JOUER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> On dit <italic>Plein-Jeu, Demi-Jeu</italic>, selon la maniere plus
+					forte ou plus douce de tirer les Sons de l'instrument.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="INHARMONIQUE1">
+		<CDI>
+			<ITEM>INHARMONIQUE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>Relation Inharmonique</italic>, est, selon M. Savérien, un terme de
+					Musique; &amp; il renvoie, pour l'expliquer, au mot <italic>Relation</italic>,
+					auquel il n'en parle pas. Ce terme de Musique ne m'est point connu.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="INSTRUMENTAL1">
+		<CDI>
+			<ITEM>INSTRUMENTAL</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Qui appartient au jeu des Instrumens. <italic>Tour de Chant</italic>
+					Instrumental; <italic>Musique</italic> Instrumentale.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="INTERCIDENCE1">
+		<CDI>
+			<ITEM>INTERCIDENCE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Terme de Plain-Chant. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="DIAPTOSE1">DIAPTOSE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ANTIPHONIER_ou_ANTIPHONAIRE1">
+		<CDI>
+			<ITEM>ANTIPHONIER ou ANTIPHONAIRE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Livré qui contient en Notes les Antiennes &amp; autres Chants dont on use dans
+					l'Eglise Catholique.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="APOTHETUS1">
+		<CDI>
+			<ITEM>APOTHETUS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Nom propre aux Flûtes dans l'ancienne Musique des Grecs.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="INTONATION1">
+		<CDI>
+			<ITEM>INTONATION</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Action d'entonner. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="ENTONNER1">ENTONNER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> L'<italic>Intonation</italic> peut être juste ou fausse, trop haute
+					ou trop basse: , trop forte ou trop foible, &amp; alors le mot
+					<italic>Intonation</italic>, accompagné d'une épithete, s'entend de la maniere
+					d'entonner.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="INVERSE1">
+		<CDI>
+			<ITEM>INVERSE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="RENVERSE1">RENVERSE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="IONIEN_ou_IONIQUE1">
+		<CDI>
+			<ITEM>IONIEN ou IONIQUE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Le Mode <italic>Ionien</italic> étoit, en comptant du grave à l'aigu, le second
+					des cinq Modes moyens de la Musique des Grecs. Ce Mode s'appelloit aux i, &amp;
+					Euclide l'appelle encore <italic>Phrygien grave</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MODE1">MODE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="JOUR1">
+		<CDI>
+			<ITEM>JOUR</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>Corde à jour</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="VIDE1">VIDE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ISON1">
+		<CDI>
+			<ITEM>ISON</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Chant en <italic>Ison</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CHANT1">CHANT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="JULE1">
+		<CDI>
+			<ITEM>JULE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom d'une sorte d'Hymne ou Chanson parmi les Grecs, en l'honneur de Cérès ou de
+					Proserpine. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="CHANSON1">CHANSON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="JUSTE1">
+		<CDI>
+			<ITEM>JUSTE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est aussi quelquefois adverbe. <italic>Chanter</italic> juste,
+					<italic>Jouer</italic> juste.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="LA1">
+		<CDI>
+			<ITEM>LA</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom de la sixieme Note de notre Gamme, inventée par Guy Arétin. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="GAMME1">GAMME</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="SOLFIER1">SOLFIER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="LARGE1">
+		<CDI>
+			<ITEM>LARGE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom d'une sorte de Note dans nos vieilles Musiques, de laquelle on augmentoit
+					la valeur en tirant plusieurs traits non-seulement per les côtés, mais par le
+					milieu de la Note; ce que Muris blâme avec forcé comme une horrible
+					innovation.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="LARGHETTO1">
+		<CDI>
+			<ITEM>LARGHETTO</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="LARGO1">LARGO</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="LARGO1">
+		<CDI>
+			<ITEM>LARGO</ITEM>
+			<U_GRAMMAIRE QUICK="adv">
+				<texte>adv.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot écrit à la tête d'un Air indique an mouvement plus lent que
+					l'<italic>Adagio</italic>, &amp; le dernier de tous en lenteur. Il marque qu'il
+					faut filer de longs Sons, étendre les Tems &amp; la Mesure, &amp;c.</p>
+				<p>Le diminutif <italic>Larghetto</italic> annonce un mouvement un peu moins lent
+					que le <italic>Largo</italic>, plus que l'<italic>Andante</italic>, &amp;
+					très-approchant de l'<italic>Andantino</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="LEGEREMENT1">
+		<CDI>
+			<ITEM>LEGEREMENT</ITEM>
+			<U_GRAMMAIRE QUICK="adv">
+				<texte>adv.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot indique un mouvement encore plus vis que le <italic>Gai</italic>, un
+					mouvement moyen entre le gai &amp; le vite. Il répond à-peu-prés à l'Italien
+					<italic>Vivace.</italic></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="LEMME1">
+		<CDI>
+			<ITEM>LEMME</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Silence ou Pause d'un Tems bref dans le Rhythme Catalectique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="RHYTHME1">RHYTHME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="LENTEMENT1">
+		<CDI>
+			<ITEM>LENTEMENT</ITEM>
+			<U_GRAMMAIRE QUICK="adv">
+				<texte>adv.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot répond à l'Italien <italic>Largo</italic> &amp; marque un mouvement lent.
+					Son superlatif, <italic>très-Lentement</italic>, marque le plus tardif de tous
+					les mouvemens.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="LIÉES1">
+		<CDI>
+			<ITEM>LIÉES</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>.. On appelle <italic>Notes Liées</italic> deux ou plusieurs Notes qu'on passe
+					d'un seul coup d'archet sur le Violon &amp; le Violoncelle, ou d'un seul coup de
+					langue sur la Flûte &amp; le Hautbois; en un mot, toutes les Notes qui sont sous
+					une même liaison.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="LINOS1">
+		<CDI>
+			<ITEM>LINOS</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Chant rustique chez les anciens Grecs; ils avoient aussi un Chant
+					funebre du même nom, qui revient à ce que les Latins ont appellé
+					<italic>Noenia</italic>. Les uns disent que le Linos fut inventé en Egypte;
+					d'autres en attribuoient l'invention à Linus Eubéen.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="LOURER1">
+		<CDI>
+			<ITEM>LOURER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. a.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>&amp; n. C'est nourrir les Sons avec douceur &amp; marquer la premiere Note de
+					chaque Tems plus sensiblement que la seconde, quoique de même valeur.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="LYCHANOS1">
+		<CDI>
+			<ITEM>LYCHANOS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="LICHANOS1">LICHANOS</RENVOI>
+					<TXTDisparaitre>)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="LYTIERSE1">
+		<CDI>
+			<ITEM>LYTIERSE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Chanson des Moissonneurs chez les anciens Grecs. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CHANSON1">Chanson</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MA1">
+		<CDI>
+			<ITEM>MA</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Syllabe avec laquelle quelques Musiciens solfient le <italic>mi Bémol</italic>
+					comme ils solfient par <italic>si</italic> le <italic>fa Dièse</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SOLFIER1">SOLFIER</RENVOI>
+					<TXTDisparaitre>)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MAGASIN1">
+		<CDI>
+			<ITEM>MAGASIN</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Hôtel de la dépendance de l'Opéra de Paris, où logent les Directeurs &amp;
+					d'autres personnes attachées à l'Opéra, &amp; dans lequel est un petit Théâtre
+					appellé aussi <italic>Magasin</italic>, ou, <italic>Théatre du Magasin</italic>,
+					sur lequel se sont les premieres répétitions. C'est l'<italic>Odéum</italic> de
+					la Musique Françoise. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="ODEUM1">ODEUM</RENVOI>
+					<TXTDisparaitre>)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MAITRE_DE_CHAPELLE1">
+		<CDI>
+			<ITEM>MAITRE DE CHAPELLE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MAÎTRE_DE_MUSIQUE1">MAÎTRE DE MUSIQUE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MARCHER1">
+		<CDI>
+			<ITEM>MARCHER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. n.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce terme s'emploie figurément en Musique, &amp; se dit de la succession des Sons
+					ou des Accords qui se souvent dans certain ordre. <italic>La Basse &amp; le
+					Dessus</italic> Marchent <italic>par mouvemens contraires</italic>. Marche
+					<italic>de Basse</italic> à <italic>contre-tems</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MÉDIATION1">
+		<CDI>
+			<ITEM>MÉDIATION</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Partage de chaque verset d'un Pseaumes en deux parties, l'une psalmodiée ou
+					chantée par un côté du Choeur, &amp; l'autre par l'autre, dans les Eglises
+					Catholiques.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MELANGE1">
+		<CDI>
+			<ITEM>MELANGE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Une des Parties de l'ancienne Mélopée, appellée <italic>Agogé</italic> par les
+					Grecs, laquelle consiste à savoir entrelacer &amp; mêler à propos les Modes
+					&amp; les Genres.<U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="MÉLOPÉE1">MÉLOPÉE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ARBITRIO1">
+		<CDI>
+			<ITEM>ARBITRIO</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Voyez CADENZA.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MÉLODIEUX1">
+		<CDI>
+			<ITEM>MÉLODIEUX</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Qui donne de la Mélodie. <italic>Mélodieux</italic>, dans l'usage, se dit des
+					Sons agréables, des Voix sonores, des Chants doux &amp; gracieux, &amp;c.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ARCO1">
+		<CDI>
+			<ITEM>ARCO</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Archet, s. m. Ces mots Italiens <italic>Con l'Acro</italic>, marquent qu'après
+					avoir pincé les cordes, il faut reprendre l'<italic>Archet</italic> à l'endroit
+					où ils sont écrits.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MELOS1">
+		<CDI>
+			<ITEM>MELOS</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Douceur du Chant. Il est difficile de distinguer dans les Auteurs Grecs le sens
+					du mot <italic>Mélos</italic> du sens du mot <italic>Mélodie</italic>. Platon,
+					dans son Protagoras, met le <italic>Mélos</italic> dans le simple discours,
+					&amp; terrible entendre par-là le Chant de la parole. Le <italic>Mélos</italic>
+					paroît être ce par quoi la <italic>Mélodie</italic> est agréable. Ce mot vient
+					de μελι, <italic>miel</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MESOIDE1">
+		<CDI>
+			<ITEM>MESOIDE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Mélopée dont les Chants rouloient sur des cordes moyennes, lesquelles
+					s'appelloient aussi <italic>Mésoide</italic> de la Mèse ou du Tétracorde
+					Méson.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MESOIDES1">
+		<CDI>
+			<ITEM>MESOIDES</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sons moyens, ou pris dans le Medium du systême. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="MÉLOPÉE1">MÉLOPÉE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MESOPYCNI1">
+		<CDI>
+			<ITEM>MESOPYCNI</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Les Anciens appelloient ainsi, dans les Genres épais, le second Son de chaque
+					Tétracorde. Ainsi les Sons <italic>Mésopycni</italic> étoient cinq en nombre. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SON1">SON</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="SYSTÊME1">SYSTÊME</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="TETRACORDE1">TETRACORDE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ARIOSO1">
+		<CDI>
+			<ITEM>ARIOSO</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>pris <italic>adverbialement</italic>. Ce mot Italien à la tête d'un Air,
+					indique une manière de Chant soutenue développée, &amp; affectée aux grands
+					Airs.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MESURE1">
+		<CDI>
+			<ITEM>MESURE</ITEM>
+			<U_GRAMMAIRE>
+				<texte>part.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot répond à l'Italien à <italic>Tempo</italic> ou à <italic>Batuta</italic>,
+					&amp; s'emploie, sortant d'un Récitatif, pour marquer le lieu où l'on doit
+					commencer à chanter en Mesure.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MEZZA-VOCE1">
+		<CDI>
+			<ITEM>MEZZA-VOCE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SOTTO-VOCE1">SOTTO-VOCE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MEZZO-FORTE1">
+		<CDI>
+			<ITEM>MEZZO-FORTE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SOTTO-VOCE1">SOTTO-VOCE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MI1">
+		<CDI>
+			<ITEM>MI</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>La troisieme des six syllabes inventées par Gui Arétin, pour nommer ou solfier
+					les Notes, lorsqu'on ne joint pas la parole au Chant. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="E_SI_MI1">E SI MI</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="GAMME1">GAMME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ARISTOXENIENS1">
+		<CDI>
+			<ITEM>ARISTOXENIENS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Secte qui eût pour Chef Aristoxene de Tarente, Disciple d'Aristote, &amp; qui
+					étoit opposée aux Pythagoriciens sur la Mesure des Intervalles &amp; sur la
+					maniere de déterminer les rapports des Sons; de sorte que les
+					<italic>Aristoxéniens</italic> s'en rapportoient uniquement au jugement de
+					l'oreille, &amp; les Pythagoriciens à la précision du calcul. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="PYTHAGORICIENS1">PYTHAGORICIENS</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MINIME1">
+		<CDI>
+			<ITEM>MINIME</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>subst. fém. par rapport à la durée ou au Tems, est dans nos anciennes Musiques
+					la Note qu'aujourd'hui nous appellons Blanche. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="VALEUR_DES_NOTES1">VALEUR DES NOTES</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MIXIS1">
+		<CDI>
+			<ITEM>MIXIS</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Mélange. Une des Parties de l'ancienne Mélopée, par laquelle le Compositeur
+					apprend à bien combiner les Intervalles &amp; à bien distribuer les Genres &amp;
+					les Modes selon le caractere du Chant qu'il s'est proposé de faire. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MELOPSEE1">MELOPSEE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ARMER_LA_CLEF1">
+		<CDI>
+			<ITEM>ARMER LA CLEF</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est y mettre le nombre de Dièses ou de Bémols convenables au Ton &amp; au Mode
+					dans lequel on veut écrire de la Musique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="BéMOL1">BéMOL</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="CLEF1">CLEF</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="DIÈSE1">DIÈSE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ARPÉGER1">
+		<CDI>
+			<ITEM>ARPÉGER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. n.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est l'article suivant d'Arpèges. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="ARPERGGIO1 ARPÈGE1 ARPÈGEMENT1">l'article suivant</RENVOI>
+					<TXTDisparaitre>)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MODÉRÉ1">
+		<CDI>
+			<ITEM>MODÉRÉ</ITEM>
+			<U_GRAMMAIRE QUICK="adv">
+				<texte>adv.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot indique un mouvement moyen entre le lent &amp; le gai; il répond à
+					l'Italien <italic>Andante</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="ANDANTE1">ANDANTE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MODULER1">
+		<CDI>
+			<ITEM>MODULER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. n.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est composer ou préluder, soit par écrit, soit sur un Instrument, soit avec la
+					Voix, en suivant les réglés de la <italic>Modulation</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MODULATION1">MODULATION</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MOINDRE1">
+		<CDI>
+			<ITEM>MOINDRE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MINIME1">MINIME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MONOCORDE1">
+		<CDI>
+			<ITEM>MONOCORDE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Instrument ayant une seule corde qu'on devise à volonté par des Chevalets
+					mobiles, lequel sert à trouver les rapports des Intervalles &amp; toutes les
+					divisions du Canon Harmonique. Comme la Partie des Instrumens n'entre point dans
+					mon plan, je ne parlerai pas plus long-tems de celui-ci.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MONODIE1">
+		<CDI>
+			<ITEM>MONODIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Chant à voix seule, par opposition à ce que les Anciens appelloient
+					<italic>Chorodies</italic>, ou Musiques exécutées par le Choeur.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MONOTONIE1">
+		<CDI>
+			<ITEM>MONOTONIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est, au propre, une Psalmodie ou un Chant qui marche toujours sur le même Ton;
+					mais ce mot ne s'emploie gueres que dans le figuré.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MONTER1">
+		<CDI>
+			<ITEM>MONTER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. n.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est faire succéder les Sons du bas en haut; c'est-à-dire, du grave à l'aigu.
+					Cela se présente à l'oeil par notre maniere de noter.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MUANCES1">
+		<CDI>
+			<ITEM>MUANCES</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>dans la Musique ancienne. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MUTATIONS1">MUTATIONS</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MUSICAL1">
+		<CDI>
+			<ITEM>MUSICAL</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Appartenant à la Musique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MUSIQUE1">MUSIQUE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="MUSICALEMENT1">
+		<CDI>
+			<ITEM>MUSICALEMENT</ITEM>
+			<U_GRAMMAIRE QUICK="adv">
+				<texte>adv.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>D'une maniere Musicale, dans les regles de la Musique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="MUSIQUE1">MUSIQUE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="AUBADE1">
+		<CDI>
+			<ITEM>AUBADE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Concert de nuit en plein air sous les fenêtres de quelqu'un. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="SÉRÉNADE1">SÉRÉNADE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="NETOIDES1">
+		<CDI>
+			<ITEM>NETOIDES</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sons aigus. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="LEPSIS1">LEPSIS</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="NIGLARIEN1">
+		<CDI>
+			<ITEM>NIGLARIEN</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom d'un Nome ou Chant d'une Mélodie efféminée &amp; molle, comme Aristophane
+					le reproche à Philoxène son Auteur.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="NOELS1">
+		<CDI>
+			<ITEM>NOELS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sortes d'Airs destinés à certains Cantiques que le peuple chante aux Fèces de
+					NOELS. Les Airs des Noëls doivent avoir un caractere champêtre &amp; pastoral
+					convenable à la simplicité des paroles, &amp; à celle des Bergers qu'on suppose
+					les avoir chantés en allant rendre hommage à l'Enfant Jésus dans la Crêche.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="NOMION1">
+		<CDI>
+			<ITEM>NOMION</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Chanson d'amour chez les Grecs. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CHANSON1">CHANSON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="NOMS1">
+		<CDI>
+			<ITEM>NOMS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>des Notes. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SOLFIER1">SOLFIER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="B1">
+		<CDI>
+			<ITEM>B</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>fa si,</italic> ou B <italic>fa b mi</italic>, ou simplement B. Nom du
+					septieme Son de la Gamme de l'Arétin, pour lequel les Italiens &amp; les autres
+					Peuples de l'Europe répetent le B, disant B <italic>mi</italic> quand il est
+					naturel, B <italic>fa</italic> quand il est Bémol; mais les François l'appellent
+					<italic>Si.</italic> <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SI1">Si</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="B2">
+		<CDI>
+			<ITEM>B</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>Mol</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="BÉMOL1">BÉMOL</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="NOURRIR1">
+		<CDI>
+			<ITEM>NOURRIR</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>les Sons, c'est non-seulement leur donner du timbre sur l'Instrument, mais aussi
+					les soutenir exactement durant toute leur valeur, au lieu de les laisser
+					éteindre avant que cette valeur soit écoulée, comme on fait souvent. Il y a des
+					Musiques qui veulent des Sons <italic>Nourris</italic>, d'autres les veulent
+					détachés, &amp; marqués seulement du bout de l'Archet.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="NUNNIE1">
+		<CDI>
+			<ITEM>NUNNIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit chez les Grecs la Chanson particuliere aux Nourrices. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CHANSON1">CHANSON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="B3">
+		<CDI>
+			<ITEM>B</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>Quarre</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="BÉQUARRE1">Béquarre</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="OCTACORDE1">
+		<CDI>
+			<ITEM>OCTACORDE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Instrument ou systême de Musique composé de huit Sons ou de sept Degrés.
+					L'<italic>Octacorde</italic> ou la Lyre de Pythagore comprenoit les huit Sons
+					exprimés par ces lettres   c'est-à-dire, deux Tétracordes disjoints.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ODE1">
+		<CDI>
+			<ITEM>ODE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Mot Grec qui signifie <italic>Chant</italic> ou <italic>Chanson</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="OEUVRE1">
+		<CDI>
+			<ITEM>OEUVRE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot est masculin pour désigner un des Ouvrages de Musique d'un Auteur. On dit
+					le troisieme <italic>Oeuvre</italic> de Corelli, le cinquieme
+					<italic>Oeuvre</italic> de Vivaldi, &amp;c. mais ces titres ne sont plus gueres
+					en usage. A mesure que la Musique se perfectionne, elle perd ces noms pompeux
+					par lesquels nos Anciens s'imaginoient la glorifier.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BARBARE1">
+		<CDI>
+			<ITEM>BARBARE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Mode Barbare. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="LYDIEN1">LYDIEN</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ORTHIEN1">
+		<CDI>
+			<ITEM>ORTHIEN</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Le <italic>Nome Orthien</italic> dans la Musique Grecque étoit un Nome
+					Dactylique, inventé, selon les uns, par l'ancien Olympus le Phrygien, &amp;
+					selon d'autres par le Mysien. C'est sur ce Nome <italic>Orthien</italic>, disent
+					Hérodote &amp; Aulugelle, que chantoit Arion quand il se précipita dans la
+					mer.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="OUVERTURE_DU_LIVRÉ_A1">
+		<CDI>
+			<ITEM>OUVERTURE DU LIVRÉ A</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>L'OUVERTURE DU LIVRÉ. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="LIVRÉ1">LIVRÉ</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> .</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="OXIPYCNI1">
+		<CDI>
+			<ITEM>OXIPYCNI</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>adj. plur</italic>. C'est le nom que donnoient les Anciens dans le Genre
+					épais au troisieme Son en montant de chaque Tétracorde. Ainsi les Sons Oxipycni
+					étoient cinq en nombre. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="APYCNI1">APYCNI</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="ÉPAIS1">ÉPAIS</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="SYSTEME1">SYSTEME</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="TÉTRACORDE1">TÉTRACORDE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="P1">
+		<CDI>
+			<ITEM>P</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Par abréviation, signifie <italic>Piano</italic>, c'est-à-dire,
+					<italic>Doux</italic> <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="DOUX1">Doux</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+				<p>Le double PP. signifie, <italic>Pianissimo</italic>, c'est-à-dire,
+					<italic>très-Doux</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BARDES1">
+		<CDI>
+			<ITEM>BARDES</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte d'hommes très-singuliers, &amp; très-respectés jadis dans les Gaules,
+					lesquels étoient à la sois Prêtres, Prophetes, Poetes &amp; Musiciens.</p>
+				<p>Bochard fait dériver ce nom de <italic>Parat</italic>, chanter; &amp; Camden
+					convient avec Festus que <italic>Barde</italic> signifie un Chanteur; en
+					Celtique <italic>Bard</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PARHYPATE1">
+		<CDI>
+			<ITEM>PARHYPATE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom de la corde qui suit immédiatement l'Hypatè du grave à l'aigu. Il y avoit
+					deux Parhypates dans le Diagramme des Grecs; avoir, la
+					<italic>Parhypate-Hypaton</italic>, &amp; la <italic>Parhypate-Mé!on</italic>.
+					Ce mot <italic>Parhypate</italic> signifie <italic>Sous-principale ou proche la
+					principale</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="HYPATE1">HYPATE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BARIPYCNI1">
+		<CDI>
+			<ITEM>BARIPYCNI</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Les Anciens appelloient ainsi cinq des huit Sons ou cordes stables de leur
+					systême ou Diagramme; savoir, l'Hypaté-Hypaton, l'Hypaté Méson, la Mèse, la
+					Paramèse, &amp; la Neté-Diézeugménon. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="PYCNI1">PYCNI</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="SON1">SON</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="TÉTRACORDE1">TÉTRACORDE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PASSACAILLE1">
+		<CDI>
+			<ITEM>PASSACAILLE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Espece de Chaconne dont le Chantes est plus tendre &amp; le mouvement plus lent
+					que dans les Chaconnes ordinaires. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CHACONNE1">CHACONNE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> Les <italic>Passacailles</italic> d'Armide &amp; d'Issé sont
+					célebres dans l'Opéra François.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PASSAGE1">
+		<CDI>
+			<ITEM>PASSAGE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ornement dont en charge un trait de Chant, pour l'ordinaire assez court; lequel
+					est composé de plusieurs Notes ou Diminutions qui se chantent ou se jouent
+					très-légérement. C'est ce que les Italiens appellent aussi
+					<italic>Passo</italic>. Mais tout Chanteur en Italie est obligé de savoir
+					composer des <italic>Passi</italic>, au lieu que la plupart des Chanteurs
+					François ne s'écartent jamais de la Note &amp; ne sont de
+					<italic>Passages</italic> que ceux qui sont écrits.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BARYTON1">
+		<CDI>
+			<ITEM>BARYTON</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de voix entre la Taille &amp; la Basse. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CONCORDANT1">CONCORDANT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PASTORELLE1">
+		<CDI>
+			<ITEM>PASTORELLE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Air Italien dans le genre pastoral. Les Airs François appellés Pastorales, sont
+					Ordinairement, deux Tems, &amp; dans le caractere de Musette. Les
+					<italic>Pastorelles</italic> Italiennes ont plus d'accent, plus de grace, autant
+					de douceur &amp; moins de fadeur. Leur Mesure est toujours le six-huit.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PATTE_A_RÉGLER1">
+		<CDI>
+			<ITEM>PATTE A RÉGLER</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>On appelle ainsi un petit instrument de cuivre, composé de cinq petites rainures
+					également espacées, attachées à un manche commun, par lesquelles on trace à la
+					fois sur le papier, &amp; le long d'une regle, cinq lignes paralleles qui
+					forment une Portée. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="PORTÉE1">PORTÉE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BAROQUE1">
+		<CDI>
+			<ITEM>BAROQUE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Une Musique <italic>Baroque</italic> est celle dont l'Harmonie est confuse,
+					chargée de Modulations &amp; Dissonances, le Chant dur &amp; peu naturel,
+					l'Intonation difficile, le Mouvement contraint.</p>
+				<p>Il y a bien de l'apparence que ce terme vient du Baroco des Logiciens.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PÉAN1">
+		<CDI>
+			<ITEM>PÉAN</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Chant de victoire parmi les Grecs, en l'honneur des Dieux, &amp; sur-tout
+					d'Apollon.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PENTACORDE1">
+		<CDI>
+			<ITEM>PENTACORDE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit chez les Grecs tantôt un Instrument à cinq cordes, &amp; tantôt un ordre
+					ou systême formé de cinq. Sons: c'est en ce dernier-sens que la Quinte ou
+					Diapente s'appelloit quelquefois <italic>Pentacorde.</italic></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PENTATONON1">
+		<CDI>
+			<ITEM>PENTATONON</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit, dans la Musique ancienne le nom d'un Intervalle que nous appellons
+					aujourd'hui Sixte-superflue. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="SIXTE1">SIXTE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> Il est composé de quatre Tons., d'un semi-Ton majeur &amp; d'un
+					semi-Ton mineur; d'un lui vient le nom de <italic>Pentatonon</italic>, qui
+					signifie cinq tons.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BARRE" id2="C_BARRÉ1">
+		<CDI>
+			<ITEMS>
+				<ITEM>BARRE</ITEM>
+				<TXTDisparaitre>,</TXTDisparaitre>
+				<ITEM>C barré</ITEM>
+			</ITEMS>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>sorte de Mesure.<U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="C1">C</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PERIPHERES1">
+		<CDI>
+			<ITEM>PERIPHERES</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Terme de la Musique Grecque, qui signifie une suite de Notes tant ascendantes
+					que descendantes, &amp; qui reviennent, pour ainsi dire, sur elles-mêmes. La
+					<italic>Peripherès</italic> étoit formée de l'<italic>Anacamptos</italic> &amp;
+					de l'<italic>Euthia</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PHILELIE1">
+		<CDI>
+			<ITEM>PHILELIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit chez les Grecs une forte d'Hymne ou de Chanson en l'honneur d'Apollon. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="CHANSON1">CHANSON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PHONIQUE1">
+		<CDI>
+			<ITEM>PHONIQUE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Art de traiter &amp; combiner les Sons sur les principes de l'Acoustique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="ACOUSTIQUE1">Acoustique</RENVOI>
+					<TXTDisparaitre>)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PIZZICATO1">
+		<CDI>
+			<ITEM>PIZZICATO</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot écrit dans les Musiques Italiennes avertit qu'il faut
+					<italic>Pincer</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="PINCER1">PINCER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PLAINTE1">
+		<CDI>
+			<ITEM>PLAINTE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="ACCENT1">ACCENT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PLEIN-CHANT1">
+		<CDI>
+			<ITEM>PLEIN-CHANT</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="PLAIN-CHANT1">PLAIN-CHANT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PLEIN-JEU1">
+		<CDI>
+			<ITEM>PLEIN-JEU</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>se dit du Jeu de l'Orgue, lorsqu'on a mis tous les registres, &amp; aussi
+					lorsqu'on remplit toute l'Harmonie; il se dit encore des Instrumens d'archet,
+					lorsqu'on en tire tout le Son qu'ils peuvent donner.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="POLYCÉPHALE1">
+		<CDI>
+			<ITEM>POLYCÉPHALE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Nome pour les Flûtes en l'honneur d'Apollon. Le Nome</p>
+				<p>Polycéphale fut inventé, selon les uns, par le second Olympe Phrygien, descendant
+					du fils de Marsyas, &amp; selon d'autres, par Cratès disciple de ce même
+					Olympe.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="POLYMNASTIE_ou_POLYMNASTIQUE1">
+		<CDI>
+			<ITEM>POLYMNASTIE ou POLYMNASTIQUE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nome pour les Flûtes, inventé, selon les uns, par une femme nommée Polymneste,
+					&amp; selon d'autres; par Polymnestus, fils de Mélès Colophonien.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PONCTUER1">
+		<CDI>
+			<ITEM>PONCTUER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. a.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est, en terme de composition, marquer les repos plus ou moins parfaits, &amp;
+					diviser tellement les Phrases qu'on sente par la Modulation &amp; par les
+					Cadences leurs commencemens, leurs chûtes, &amp; leurs liaisons plus ou moins
+					grandes, comme on sent tout cela le discours à l'aide de la ponctuation.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PORT-DE-VOIX1">
+		<CDI>
+			<ITEM>PORT-DE-VOIX</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Agrément du Chant, lequel se marque par une petite Note appellée en Italien
+					<italic>Appoggiatura</italic>, &amp; se pratique en montant diatoniquement d'une
+					Note à celle qui la suit par un coup de gosier dont l'effet est marqué dans la
+					<RENVOI cible="" vignette="13" planche="OUI" page="B">Planche B.
+					Fig.13.</RENVOI></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PORT-DE-VOIX_JETTÉ1">
+		<CDI>
+			<ITEM>PORT-DE-VOIX JETTÉ</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>it, lorsque montant diatoniquement d'une Note à sa Tierce on appuie la troisieme
+					Note sur le son de la seconde, pour faire sentir seulement cette troisieme Note
+					par un coup de gosier redoublé, tel qu'il est marqué <RENVOI cible="" page="B"
+					planche="OUI" vignette="13">Planche B. Fig. 13.</RENVOI></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PRÉPARATION1">
+		<CDI>
+			<ITEM>PRÉPARATION</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Acte de préparer la Dissonance. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="PRÉPARER1">PRÉPARER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PRESTO1">
+		<CDI>
+			<ITEM>PRESTO</ITEM>
+			<U_GRAMMAIRE QUICK="adv">
+				<texte>adv.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot, écrit à la tête d'un morceau de Musique, indique le plus prompt &amp; le
+					plus animé des principaux Mouvemens établis dans la Musique Italienne.
+					<italic>Presto</italic> signifie <italic>Vîte</italic>. Quelquefois on marque un
+					Mouvement encore plus pressé par le superlatif <italic>Prestissimo.</italic></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PRISE1">
+		<CDI>
+			<ITEM>PRISE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>Lepsis</italic>. Une des parties de l'ancienne Mélopée. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MELOPEE1">MELOPEE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PROPRETÉ1">
+		<CDI>
+			<ITEM>PROPRETÉ</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Exécution du Chant François avec les ornemens qui lui sont propres, &amp; qu'on
+					appelle agrémens du Chant. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="AGRÉMENT1">AGRÉMENT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PROSODIAQUE1">
+		<CDI>
+			<ITEM>PROSODIAQUE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Le Nome <italic>Prosodiaque</italic> se chantoit en l'honneur de Mars, &amp;
+					fut, dit-on, inventé par Olympus.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PROSODIE1">
+		<CDI>
+			<ITEM>PROSODIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Nome pour les Flûtes, &amp; propre aux Cantiques que l'on chantoit chez
+					les Grecs, à l'entrée des sacrifices. Plutarque attribue l'invention des
+					<italic>Prosodies</italic> à Clonas, de Tégée selon les Arcadiens, &amp; de
+					Thebes selon les Béotiens.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PROTESIS1">
+		<CDI>
+			<ITEM>PROTESIS</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Pause d'un Tems long dans la Musique ancienne, à la différence du
+					<italic>Lemme</italic>, qui étoit la Paule d'un Tems bref.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PSALMODIER1">
+		<CDI>
+			<ITEM>PSALMODIER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. n.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est chez les Catholiques chanter ou réciter les Pseaumes &amp; l'Office d'une
+					maniere particuliere, qui tient le milieu entre le Chant &amp; la parole: c'est
+					du Chant, parce que la voix est soutenue; c'est de la parole, parce qu'on garde
+					presque toujours le même Ton.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="PYCNI,_PYCNOI1">
+		<CDI>
+			<ITEM>PYCNI, PYCNOI</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="EPAIS1">EPAIS</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="QUANTITÉ1">
+		<CDI>
+			<ITEM>QUANTITÉ</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot, en Musique de même qu'en Prosodie, ne signifie pas le nombre des Notes
+					ou des Syllabes, mais la durée relative qu'elles doivent avoir. La
+					<italic>Quantité</italic> produit le Rhythme, comme l'Accent produit
+					l'Intonation. Du Rhythme produit &amp; de Intonation résulte la Mélodie. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MÉLODIE1">MÉLODIE</RENVOI>
+					<TXTDisparaitre>)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="QUARRE1">
+		<CDI>
+			<ITEM>QUARRE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>On appelloit autrefois <italic>B Quarré</italic> ou <italic>B Dur</italic>, le
+					signe qu'on appelle aujourd'hui <italic>Béquarre</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voy. </TXTDisparaitre>
+					<RENVOI cible="B1">B</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="QUARTER1">
+		<CDI>
+			<ITEM>QUARTER</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>v.n. C'étoit, chez nos anciens Musiciens, une maniere de procéder dans le
+					Déchant ou Contre-point plutôt par Quartes que par Quintes: c'étoit ce qu'ils
+					appelloient aussi par un mot Latin plus barbare encore que le François,
+					<italic>Diatefferonare</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="QUATORZIEME1">
+		<CDI>
+			<ITEM>QUATORZIEME</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Réplique ou Octave de la Septieme. Cet Intervalle s'appelle
+					<italic>Quatorzieme</italic>, parce qu'il faut former quatorze Sons pour passer
+					diatoniquement d'un de ses termes à l'autre.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="QUINQUE1">
+		<CDI>
+			<ITEM>QUINQUE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom qu'on donne aux morceaux de Musique vocale ou instrumentale qui sont à cinq
+					Parties récitantes. Puisqu'il n'y a pas de vrai <italic>Quatuor</italic>, à plus
+					forte raison n'y a-t-il pas de véritable <italic>Quinque</italic>. L'un &amp;
+					l'autre de ces mots, quoique passés de la Langue Latine dans la Françoise, se
+					prononce comme en Latin.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="QUINTE1">
+		<CDI>
+			<ITEM>QUINTE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est aussi le nom qu'on donne en France à cette Partie instrumentale de
+					remplissage qu'en Italie on appelle <italic>Viola</italic>. Le nom de cette
+					Partie a passé à l'Instrument qui la jour.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="QUINTER1">
+		<CDI>
+			<ITEM>QUINTER</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>v.n. C'étoit, chez nos anciens Musiciens, une maniere de procéder dans le
+					Déchant ou Contre-point plutôt par <italic>Quinte</italic> que par Quartes.
+					C'est ce qu'ils appelloient aussi dans leur Latin
+					<italic>Diapentissare</italic>. Muris s'étend fort au long sur les regles
+					convenables pour <italic>Quinter</italic> ou Quarter à propos.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="QUINZIEME1">
+		<CDI>
+			<ITEM>QUINZIEME</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Intervalle de deux Octaves. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="DOUBLE-OCTAVE1">Double-Octave</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RANZ-DES-VACHES1">
+		<CDI>
+			<ITEM>RANZ-DES-VACHES</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Air célebre parmi les Suisses, &amp; que leurs jeunes Bouviers jouent sur la
+					Cornemuse en gardant le bétail dans les montagnes. <U_RENVOI>
+					<TXTDisparaitre>Voy. </TXTDisparaitre>
+					<RENVOI cible="" page="N" planche="OUI">l'Air noté. Pl. N</RENVOI>
+					<TXTDisparaitre>.</TXTDisparaitre>
+					</U_RENVOI> Voyez aussi l'article Musique où il est fait mention des étranges
+					effets de cet Air.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RE1">
+		<CDI>
+			<ITEM>RE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Syllabe par laquelle on solfie la seconde Note de la Gamme. Cette Note, au
+					naturel, s'exprime par la lettre D. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="D1">D</RENVOI>
+					<TXTDisparaitre>. &amp;</TXTDisparaitre>
+					<RENVOI cible="GAMME1">GAMME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RECITANT1">
+		<CDI>
+			<ITEM>RECITANT</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>Partic</italic>. Partie <italic>Récitante</italic> est celle qui se
+					chante par une seule Voix, ou se joue par un seul Instrument; par opposition aux
+					Parties de Symphonie &amp; de Choeur qui sont exécutées à l'unisson par
+					plusieurs Concertans. <U_RENVOI>
+					<TXTDisparaitre>(V. </TXTDisparaitre>
+					<RENVOI cible="RECIT1">RECIT</RENVOI>
+					<TXTDisparaitre>. )</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RÉCITATION1">
+		<CDI>
+			<ITEM>RÉCITATION</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Action de Réciter la Musique. <U_RENVOI>
+					<TXTDisparaitre>(Voy. </TXTDisparaitre>
+					<RENVOI cible="RECITER1">RECITER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ACCENS1">
+		<CDI>
+			<ITEM>ACCENS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Les Poetes emploient souvent ce mot au pluriel pour signifier le Chant même,
+					&amp; l'accompagnent ordinairement d'une épithete, comme <italic>doux, tendres,
+					tristes</italic> <italic>Accens</italic>. Alors ce mot reprend exactement le
+					sens de sa racine; car il vient de <italic>canere, cantus</italic>, d'où l'on a
+					fait <italic>Accentus</italic>, comme <italic>Concentus</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RECITER1">
+		<CDI>
+			<ITEM>RECITER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. a.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>&amp; n. C'est chanter ou jouer seul dans une Musique, c'est exécuter un
+					<italic>Récit</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="RECIT1">RECIT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RÉCLAMÉ1">
+		<CDI>
+			<ITEM>RÉCLAMÉ</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est dans le Plain-Chant la partie du Répons que l'on reprend après le verset. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="RÉPONS1">RÉPONS</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RÉDUCTION1">
+		<CDI>
+			<ITEM>RÉDUCTION</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Suite de Notes descendant diatoniquement. Ce terme, non plus que son opposé,
+					<italic>Déduction</italic>, n'est gueres en usage que dans le Plain-Chant.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="REFRAIN1">
+		<CDI>
+			<ITEM>REFRAIN</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Terminaison &amp; tous les Couplets d'une Chanson par les mêmes paroles &amp;
+					par le même Chant, qui se dit ordinairement deux fois.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RÉGLER_LE_PAPIER1">
+		<CDI>
+			<ITEM>RÉGLER LE PAPIER</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est marquer sur un papier blanc les Portées pour y noter la Musique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="PAPIER_REGLE1">PAPIER REGLE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RÉGLEUR1">
+		<CDI>
+			<ITEM>RÉGLEUR</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ouvrier qui fait profession de régler les papiers de Musique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="COPISTE1">COPISTE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RÉGLURE1">
+		<CDI>
+			<ITEM>RÉGLURE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Maniere dont est réglé le papier. <italic>Cette Réglure est trop noire. Il y a
+					plaisir de Note sur une Réglure bien nette</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="PAPIER_REGLE1">PAPIER REGLE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RENTRÉE1">
+		<CDI>
+			<ITEM>RENTRÉE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Retour du sujet, sur-tout après quelques Pauses de silence, dans une Fugue, une
+					Imitation, ou dans quelque autre Dessein.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RENVERSE1">
+		<CDI>
+			<ITEM>RENVERSE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>En fait d'Intervalles, <italic>Renversé</italic> est opposé à
+					<italic>Direct</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="DIRECT1">DIRECT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> Et en fait d'Accords, il est opposé à <italic>Fondamental.</italic> <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="FONDAMENTAL1">FONDAMENTAL</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RENVOI1">
+		<CDI>
+			<ITEM>RENVOI</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Signe figuré à volonté, placé communément au-dessus de la Portée, lequel
+					correspondant à un autre signe semblable, marque qu'il faut, d'où est le second,
+					retourner où est le premier, &amp; de-là suivre jusqu'à ce qu'on trouvé le Point
+					final. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="POINT1">POINT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RÉPLIQUE1">
+		<CDI>
+			<ITEM>RÉPLIQUE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce terme en Musique signifie la même chose qu'<italic>Octave</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="OCTAVE1">OCTAVE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> Quelquefois en composition l'on appelle aussi Réplique l'Unisson de
+					la même Note dans deux Parties différentes. Il y a nécessairement des
+					<italic>Répliques</italic> à chaque Accord dans toute Musique à plus de quatre
+					Parties. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="UNISSON1">UNISSON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RESTER1">
+		<CDI>
+			<ITEM>RESTER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. n.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>Rester</italic> sur une syllabe, c'est la prolonger plus que n'exige la
+					Prosodie, comme on fait sous les Roulades; &amp; <italic>Rester</italic> sur une
+					Note, c'est y faire une Tenue, ou la prolonger jusqu'à ce que le sentiment de la
+					Mesure toit oublié.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RIPPIENO1">
+		<CDI>
+			<ITEM>RIPPIENO</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Mot Italien qui se trouvé assez si fréquemment dans les Musiques d'Eglise, &amp;
+					qui équivaut mot <italic>Choeur</italic> ou <italic>Tous</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ROLLE1">
+		<CDI>
+			<ITEM>ROLLE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Le papier séparé qui contient la Musique doit exécuter un Concertant, &amp; qui
+					s'appelle <italic>Partie</italic> dans un Concert, s'appelle
+					<italic>Rolle</italic> à l'Opéra. Ainsi l'on doit distribuer une
+					<italic>Partie</italic> à chaque Musicien, &amp; un <italic>Rolle</italic> à
+					chaque Acteur.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ROMANESQUE1">
+		<CDI>
+			<ITEM>ROMANESQUE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Air à danser. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="GAILLARDE1">GAILLARDE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="RONDE_DE_TABLE1">
+		<CDI>
+			<ITEM>RONDE DE TABLE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Chanson à boire, pour l'ordinaire mêlée de galanterie, composée de
+					divers couplets qu'on chante à table chacun à son tour, &amp; sur lesquels tous
+					les Convives sont Chorus en reprenant le Refrain.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ROULEMENT1">
+		<CDI>
+			<ITEM>ROULEMENT</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="ROULADE1">ROULADE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="S1">
+		<CDI>
+			<ITEM>S</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Cette lettre écrite seule dans la Patrie récitante d'un Concerto signifie
+					<italic>Solo</italic>; &amp; alors elle est alternative avec le T, qui signifie
+					<italic>Tutti.</italic></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SARABANDE1">
+		<CDI>
+			<ITEM>SARABANDE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Air-d'une Danse grave, portant le même nom, laquelle paroît nous être venue
+					d'Espagne, &amp; se dansoit autrefois avec des Castagnettes. Cette Danse n'est
+					plus en usage, si ce n'est dans quelques vieux Opéra François. L'Air de la
+					Sarabande est à trois Tems lents.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="A_battuta1">
+		<CDI>
+			<ITEM>A <italic>battuta</italic></ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MESURE1">MESURE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SCHISMA1">
+		<CDI>
+			<ITEM>SCHISMA</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Petit intervalle qui vaut la moitié du Comma, &amp; dont, par conséquent, la
+					raison est sourde, puisque, pour l'exprimer en nombres, il faudroit trouver une
+					moyenne proportionnelle entre 80 &amp; 81.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SCHOENION1">
+		<CDI>
+			<ITEM>SCHOENION</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Nome pour les Flûtes dans l'ancienne Musique des Grecs.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SCHOLIE_ou_SCOLIE1">
+		<CDI>
+			<ITEM>SCHOLIE ou SCOLIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Chansons chez les anciens Grecs, dont les caracteres étoient
+					extrêmement diversifies selon les sujets &amp; les personnes. <U_RENVOI>
+					<TXTDisparaitre>(Voy.</TXTDisparaitre>
+					<RENVOI cible="CHANSON1">CHANSON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BATARD1">
+		<CDI>
+			<ITEM>BATARD</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>Nothus.</italic> C'est l'épithete donnée par quelques-uns au Mode
+					Hypophrygien, qui a sa finale en <italic>si</italic>, &amp; conséquemment sa
+					Quinte fausse; ce qui le retranche des Modes authentiques: &amp; au Mode Eolien,
+					dont la finale est en <italic>fa</italic>, &amp; la Quarte superflue; ce qui
+					l'ôte du nombre des Modes des plagaux.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SEMI-TONIQUE1">
+		<CDI>
+			<ITEM>SEMI-TONIQUE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Echelle <italic>Semi</italic>-<italic>Tonique</italic> ou Chromatique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="ECHELLE1">ECHELLE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SENSIBILITÉ1">
+		<CDI>
+			<ITEM>SENSIBILITÉ</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Disposition de l'ame qui inspire au Compositeur les idées vives dont il a
+					besoin, à l'Exécutant la vive expression de ces mêmes idées, &amp; à l'Auditeur
+					la vive impression des beautés &amp; des défauts de la Musique qu'on lui fait
+					entendre. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="GOÛT1">GOÛT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SERRE1">
+		<CDI>
+			<ITEM>SERRE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Les Intervalles <italic>Serrés</italic> dans les Genres épais de la Musique
+					Grecque sont le premier &amp; le second de chaque Tétracorde. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="ÉPAIS1">ÉPAIS</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SICILIENNE1">
+		<CDI>
+			<ITEM>SICILIENNE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte d'Air à danser, dans la Mesure à six-quatre ou six-huit, d'un Mouvement
+					beaucoup plus lent, mais encore plus marqué que celui de la Gigue.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SIMPLE1">
+		<CDI>
+			<ITEM>SIMPLE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Dans les Doubles &amp; dans les variations, le premier Couplet ou l'Air
+					original, tel qu'il est d'abord noté, s'appelle le <italic>Simple</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="DOUBLE1">DOUBLE</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="VARIATIONS1">VARIATIONS</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="A1">
+		<CDI>
+			<ITEM>A <italic>mi la</italic>, A <italic>la mi re</italic>, ou simplement A</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>seizieme son de la Gamme diatonique &amp; naturelle; lequel s'appelle autrement
+					<italic>la</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="GAMME1">GAMME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SOL1">
+		<CDI>
+			<ITEM>SOL</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>La cinquieme des six syllabes inventées par l'Arétin'. pour prononcer les Notes
+					de la Gamme. Le <italic>sol</italic> naturel répond à la lettre G. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="">GAMME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SON_FONDAMENTAL11">
+		<CDI>
+			<ITEM>SON FONDAMENTAL</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="FONDAMENTAL1">FONDAMENTAL</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SONS_FLUTES1">
+		<CDI>
+			<ITEM>SONS FLUTES</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SONS_HARMONIQUES1">SONS HARMONIQUES</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SOTTO-VOCE1">
+		<CDI>
+			<ITEM>SOTTO-VOCE</ITEM>
+			<U_GRAMMAIRE QUICK="adv">
+				<texte>adv.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot ltalien marque, dans les lieux où il est écrit, qu'il ne faut chanter
+					qu'à demi-voix, ou jouer qu'à demi-jeu. <italic>Mezzo-Forte &amp;
+					Mezza-Voce</italic> signifient la même chose.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SOUPIR1">
+		<CDI>
+			<ITEM>SOUPIR</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Silence équivalant à une Noire, &amp; qui se marque par un trait courbe
+					approchant de la figure du 7 de chiffre, mais tourné en sens contraire, en cette
+					sorte L. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SILENCE1">SILENCE</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="NOTES1">NOTES</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SOUTENIR1">
+		<CDI>
+			<ITEM>SOUTENIR</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>v. a. pris en sens neut</italic>. C'est faire exactement durer les Sons
+					toute leur valeur sans les laisser éteindre avant la fin, comme sont
+					très-souvent les Musiciens, &amp; sur-tout les Symphonistes.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SPICCATO1">
+		<CDI>
+			<ITEM>SPICCATO</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Mot Italien, lequel, écrit sur la Musique, indique des Sons secs bien
+					détachés.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SPONDEASME1">
+		<CDI>
+			<ITEM>SPONDEASME</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit, dans les plus anciennes Musiques Grecques, une altération dans le Genre
+					harmonique, lorsqu'une Corde étoit accidentellement élevée, de trois Dièses
+					au-dessus de son Accord ordinaire; de sorte que le <italic>Spondéasme</italic>
+					étoit précisément le contraire de l'<italic>Eclyse</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BATTERIE1">
+		<CDI>
+			<ITEM>BATTERIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Maniere de frapper &amp; répéter successivement sur diverses cordes d'un
+					Instrument les divers Sons qui composent un Accord, &amp; de passer ainsi
+					d'Accord en Accord par un même mouvement de Notes. La <italic>Batterie</italic>
+					n'est qu'un Arpège continué, mais dont toutes les Notes sont détachées, au lieu
+					d'être liées comme dans l'Arpége.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SUITE1">
+		<CDI>
+			<ITEM>SUITE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SONATE1">SONATE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SUPER-SUS1">
+		<CDI>
+			<ITEM>SUPER-SUS</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom qu'on donnoit jadis aux Dessus quand ils étoient très-aigus.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SURAIGUES1">
+		<CDI>
+			<ITEM>SURAIGUES</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Tétracorde des <italic>Suraiguës</italic> ajouté par l'Arétin.<U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SYSTEME1">SYSTEME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SURNUMÉRAIRE_ou_AJOUTÉE1">
+		<CDI>
+			<ITEM>SURNUMÉRAIRE ou AJOUTÉE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit le nom de la plus basse Corde du Systême des Grecs; ils l'appelloient en
+					leur langue <RENVOI cible="PROSLAMBANOMÉNOS1">Proslambanoménos</RENVOI>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez ce mot.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BATTEUR_DE_MESURE1">
+		<CDI>
+			<ITEM>BATTEUR DE MESURE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Celui qui bat la Mesure dans un Concert. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="BATTRE_LA_MESURE1">l'Article suivant</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SYLLABE1">
+		<CDI>
+			<ITEM>SYLLABE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce nom a été donne par quelques Anciens, &amp; entr'autres par Nicomaque, à la
+					Consonnance de la Quarte qu'ils appelloient communément Diatessaron. Ce qui
+					prouve encore par l'étymologie, qu'ils regardoient le Tétracorde, ainsi que nous
+					regardons comme comprenant tous les Sons radicaux ou composans.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SYMPHONIASTE1">
+		<CDI>
+			<ITEM>SYMPHONIASTE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Compositeur de Plain-Chant. Ce terme est devenu technique depuis qu'il a été
+					employé par M. l'Abbé le Beuf.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="SYNNÉMÉNON1">
+		<CDI>
+			<ITEM>SYNNÉMÉNON</ITEM>
+			<U_GRAMMAIRE>
+				<texte>gén. plur. fém.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Tétracorde <italic>Synnéménon</italic> ou des Conjointes. C'est le nom que
+					donnoient les Grecs à leur troisieme Tétracorde, quand il étoit conjoint avec le
+					second, &amp; divisé d'avec le quatrieme. Quand au contraire il étoit conjoint
+					au quatrieme &amp; divisé du second, ce même Tétracorde prenoit le nom de
+					<italic>Diézeugménon</italic> ou des Divisées. Voyez ce mot. <U_RENVOI>
+					<TXTDisparaitre>(Voyez aussi</TXTDisparaitre>
+					<RENVOI cible="TÉTRACORDE1">TÉTRACORDE</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="SYSTÊME1">SYSTÊME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TA1">
+		<CDI>
+			<ITEM>TA</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>L'une des quatre syllabes avec lesquelles les Grecs solfioient la Musique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SOLFIER1">SOLFIER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TABLEAU1">
+		<CDI>
+			<ITEM>TABLEAU</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot s'emploie souvent en Musique pour désigner la réunion de plusieurs objets
+					formant un tout peint par la Musique imitative. <italic>Le Tableau de cet Air
+					est bien dessiné; ce Choeur fait Tableau; cet Opéra est plein de Tableaux
+					admirables.</italic></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TAMBOURIN1">
+		<CDI>
+			<ITEM>TAMBOURIN</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Danse fort à la mode aujourd'hui sur les Théâtres François. L'air en
+					est très-gai &amp; se bat à deux Tems vifs. Il doit être sautillant &amp; bien
+					cadencé, à l'imitation du Flutet des Provençaux; &amp; la Basse doit refrapper
+					la mémé Note, à l'imitation du <italic>Tambourin</italic> ou Galoubé, dont celui
+					qui joue du Flutet s'accompagne ordinairement.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TE1">
+		<CDI>
+			<ITEM>TE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>L'une des quatre syllabes par lesquelles les Grecs solfient la Musique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SOLFIER1">SOLFIER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TENDREMENT1">
+		<CDI>
+			<ITEM>TENDREMENT</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Cet adverbe écrit à la tête d'un Air indique un Mouvement lent &amp; doux, des
+					Sons filés gracieusement &amp; animés d'une expression tendre &amp; touchante.
+					Les Italiens se servent du mot <italic>Amoroso</italic> pour exprimer à-peu-près
+					la même chose: mais le caractere de l'<italic>Amoroso</italic> a plus d'accent,
+					&amp; respire je ne sais quoi de moins fade &amp; de plus passionné.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TENEDIUS1">
+		<CDI>
+			<ITEM>TENEDIUS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Nome pour les Flûtes dans l'ancienne Musique des Grecs.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TENOR1">
+		<CDI>
+			<ITEM>TENOR</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="TAILLE1">TAILLE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> Dans les commencemens du Contré-point, on donnoit le nom de
+					<italic>Tenor</italic> à la Partie la plus basse.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BÉMOLISER1">
+		<CDI>
+			<ITEM>BÉMOLISER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. a.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Marquer une Note d'un <italic>Bémol</italic>, ou armer la Clef par
+					<italic>Bémol. Bémolisez ce mi</italic>. Il faut <italic>bémoliser</italic> la
+					Clef pour le Ton de <italic>fa.</italic></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TETRADIAPASON1">
+		<CDI>
+			<ITEM>TETRADIAPASON</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est le nom Grec de la quadruple Octave, qu'on appelle aussi Vingt-neuvieme.
+					Les Grecs ne connoissoient que le nom de cet Intervalle; car leur
+					<italic>Systême</italic> de Musique n'y arrivoit pas. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SYSTEME1">SYSTEME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TETRATONON1">
+		<CDI>
+			<ITEM>TETRATONON</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est le nom Grec d'un Intervalle de quatre Tons, qu'on appelle aujourd'hui
+					<italic>Quinte-superflue</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="QUINTE1">QUINTE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TEXTE1">
+		<CDI>
+			<ITEM>TEXTE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est le Poeme, ou ce sont les paroles qu'on met en Musique. Mais ce mot est
+					vieilli dans ce sens, &amp; l'on ne dit plus le <italic>Texte</italic> chez les
+					Musiciens; on paroles. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="PAROLES1">PAROLES</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="THE1">
+		<CDI>
+			<ITEM>THE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>L'une des quatre syllabes dont les Grecs se servoient pour solfier. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SOLFIER1">SOLFIER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="THESIS1">
+		<CDI>
+			<ITEM>THESIS</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Abaissement ou position. C'est ainsi qu'on appelloit autrefois le Tems fort ou
+					le frappé de la Mesure.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="THO1">
+		<CDI>
+			<ITEM>THO</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>L'une des quatre syllabes dont les Grecs se servoient pour solfier. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SOLFIER1">SOLFIER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TON_DU_QUART1">
+		<CDI>
+			<ITEM>TON DU QUART</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est ainsi que les Organistes &amp; Musiciens d'Eglise ont appellé le Plagal du
+					Mode mineur qui s'arrête &amp; finit sur la Dominante au lieu de tomber sur la
+					Tonique. Ce nom de <italic>Ton du Quart</italic> lui vient de ce que telle est
+					spécialement la Modulation du quatrieme Ton dans le Plain-Chant.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TOUS_&amp;1">
+		<CDI>
+			<ITEM>TOUS &amp;</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>en Italien TUTTI. Ce mot s'écrit souvent dans les parties de Symphonie d'un
+					Concerto, après cet autre mot <italic>Seul</italic> ou <italic>Solo</italic>,
+					qui marque un Récit. Le mot <italic>Tous</italic> indique le lieu où finit ce
+					Récit, &amp; où reprend tout l'Orchestre.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TRAIT1">
+		<CDI>
+			<ITEM>TRAIT</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Terme de Plain-Chant, marquant la Psalmodie d'un Pseaume ou de quelques versets
+					de Pseaume, traînée ou alongée sur un Air lugubre qu'on substitue en quelques
+					occasions aux Chants joyeux de l'<italic>Alleluya</italic> &amp; des Proses. Le
+					Chant des <italic>Traits</italic> doit être composé dans le second ou dans le
+					huitieme Ton; les autres n'y sont pas propres.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TRAIT2">
+		<CDI>
+			<ITEM>TRAIT</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>tractus</italic>, est aussi le nom d'une ancienne figure de Note
+					appellée autrement <italic>Plique</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="PLIQUE1">PLIQUE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TRANSLATION1">
+		<CDI>
+			<ITEM>TRANSLATION</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est, dans nos vieilles Musiques, le transport de la signification d'un Point à
+					une Note séparée par d'autres Notes de ce même Point. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="POINT1">POINT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TRAVAILLER1">
+		<CDI>
+			<ITEM>TRAVAILLER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. n.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>On dit qu'une Partie <italic>travaille</italic> quand elle fait beaucoup de
+					Notes &amp; de Diminutions, tandis que d'autres Parties sont des Tenues &amp;
+					marchent plus posément.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TREIZIEME1">
+		<CDI>
+			<ITEM>TREIZIEME</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Intervalle qui forme l'Octave de la Sixte ou la Sixte de l'Octave. Cet
+					Intervalle s'appelle Treizieme, parce qu'il est formé de douze Degrés
+					diatoniques, c'est-à-dire de treize Sons.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TRIHEMITON1">
+		<CDI>
+			<ITEM>TRIHEMITON</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est le nom que donnoient les Grecs l'Intervalle que nous appellons Tierce
+					mineure; ils l'appelloient aussi quelquefois <italic>Hémiditon</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voy. </TXTDisparaitre>
+					<RENVOI cible="HEMI1">HEMI</RENVOI>
+					<TXTDisparaitre> OU </TXTDisparaitre>
+					<RENVOI cible="SEMI1">SEMI</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TRILL_ou1">
+		<CDI>
+			<ITEM>TRILL ou</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Tremblement. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="CADENCE1">CADENCE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TRIMELES1">
+		<CDI>
+			<ITEM>TRIMELES</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Nome pour les Flûtes dans l'ancienne Musique des Grecs.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TRIMERES1">
+		<CDI>
+			<ITEM>TRIMERES</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nome qui s'exécutoit en trois Modes consécutifs; savoir, le Phrygien, le Dorien,
+					&amp; le Lydien. Les uns attribuent l'invention de ce Nome composé à Sacadas
+					Argien, &amp; d'autres à Clonas Thégéate.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BI1">
+		<CDI>
+			<ITEM>BI</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Syllabe dont quelques Musiciens étrangers se servoient autrefois pour prononcer
+					le Son de la Gamme que les François appellent <italic>Si.</italic> <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SI1">Si</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TRIPLÉ1">
+		<CDI>
+			<ITEM>TRIPLÉ</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Un Intervalle <italic>Triplé</italic> est celui qui est porté à la
+					triple-Octave. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="INTERVALLE1">INTERVALLE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="TRIPLUM1">
+		<CDI>
+			<ITEM>TRIPLUM</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est le nom qu'on donnoit à la Partie la plus aigus dans les commencemens du
+					Contre-Point.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BLANCHE1">
+		<CDI>
+			<ITEM>BLANCHE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est le nom d'une Note qui vaut deux Noires ou la moitié d'une Ronde. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="NOTES1">l'Article NOTES</RENVOI>
+					<TXTDisparaitre>, &amp; </TXTDisparaitre>
+					<RENVOI cible="" vignette="9" planche="OUI" page="D">la valeur de la Blanche,
+						Pl. D. Fig. 9</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="VENTRE1">
+		<CDI>
+			<ITEM>VENTRE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Point du milieu de la vibration d'une Corde sonore, où, par cette vibration,
+					elle s'écarte le plus de la ligne de repos. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="NOEUD1">NOEUD</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="VICARIER1">
+		<CDI>
+			<ITEM>VICARIER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. n.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Mot familier par lequel les Musiciens d'Eglise expriment ce que sont ceux
+					d'entr'eux qui courent de Ville en Ville, &amp; de Cathédrale en Cathédrale,
+					pour attraper quelques rétributions, &amp; vivre aux dépens des Maîtres de
+					Musique qui sont sur leur route.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="VIS1">
+		<CDI>
+			<ITEM>VIS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>vivement</italic>. En Italien <italic>vivace</italic>: ce mot marque un
+					mouvement gai, prompt, animé; une exécution hardie &amp; pleine de feu.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="VILLANELLE1">
+		<CDI>
+			<ITEM>VILLANELLE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Danse rustique dont l'Air doit être gai, marqué, d'une Mesure
+					très-sensible. Le fond de cet Air est ordinairement un Couplet assez simple, sur
+					lequel on fait ensuite des Doubles ou Variations. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="DOUBLE1">DOUBLE</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="VARIATIONS1">VARIATIONS</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="VIRGULE1">
+		<CDI>
+			<ITEM>VIRGULE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est ainsi que nos anciens Musiciens appelloient cette partie de la Note, qu'on
+					a depuis appellée la Queue. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="QUEUE1">QUEUE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="VITE1">
+		<CDI>
+			<ITEM>VITE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>En Italien <italic>Presto</italic>. Ce mot, à la tête d'un Air, indique le plus
+					prompt de tous les Mouvemens; &amp; il n'a, après lui, que son superlatif
+					<italic>Prestissmo</italic>, ou <italic>Presto assai, très-Vite.</italic></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="VIVACE1">
+		<CDI>
+			<ITEM>VIVACE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="VIF1">VIF</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BOURDON1">
+		<CDI>
+			<ITEM>BOURDON</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Basse-continue qui résonne toujours sur le même Ton, comme sont communément
+					celles des Airs appelles Musettes. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="POINT_D_ORGUE1">POINT D'ORGUE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="UNISSONI1">
+		<CDI>
+			<ITEM>UNISSONI</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot Italien, écrit tout au long ou en abrégé dans une Partition sur la Portée
+					vide du second Violon, marque qu'il doit jouer à l'Unisson sur la Partie du
+					premier; &amp; ce même mot, écrit sur la Portée vide du premier Violon, marque
+					qu'il doit jouer à l'Unisson sur la Partie du Chant.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="UNIVOQUE1">
+		<CDI>
+			<ITEM>UNIVOQUE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Les Consonnances Univoques sont l'Octave &amp; ses Répliques, parce que toutes
+					portent le même nom. Ptolomée fut le premier qui les appella ainsi.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="VOCAL1">
+		<CDI>
+			<ITEM>VOCAL</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Qui appartient au Chant des Voix. Tour de Chants <italic>Vocal</italic>;
+					Musique <italic>Vocale</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="VOCALE1">
+		<CDI>
+			<ITEM>VOCALE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>On prend quelquefois substantivement cet adjectif pour exprimer la partie de la
+					Musique qui s'exécute par des Voix. <italic>Les Symphonies d'un tel Opéra sont
+					assez bien faites; mais la Vocale est mauvaise.</italic></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BRAILLER1">
+		<CDI>
+			<ITEM>BRAILLER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. n.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est excéder le volume de sa voix &amp; chanter tant qu'on a de forcé, comme
+					sont au Lutrin les Marguilliers de Village, &amp; certains Musiciens
+					ailleurs.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BRANLE1">
+		<CDI>
+			<ITEM>BRANLE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Danse fort gaie qui se danse en rond sur un Air court &amp; en Rondeau;
+					c'est-à-dire, avec un même refrain à la fin de chaque Couplet.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="VOLTE1">
+		<CDI>
+			<ITEM>VOLTE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte d'Air à trois Tems propre à une Danse de même nom, laquelle est composée
+					de beaucoup de tours &amp; retours, d'où lui est venu le nom de
+					<italic>Volte</italic>. Cette Danse étoit une espece de Gaillarde, &amp; n'est
+					plus en usage depuis long-tems.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="VOLUME1">
+		<CDI>
+			<ITEM>VOLUME</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Le <italic>Volume</italic> d'une Voix est l'étendue ou l'Intervalle qui est
+					entre le Son le plus aigu &amp; le Son le plus grave qu'elle peut rendre. Le
+					<italic>Volume</italic> des Voix les plus ordinaires est d'environ huit à neuf
+					Tons; les plus grandes Voix ne passent gueres les deux Octaves en Sons bien
+					justes &amp; bien pleins.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="UPINGE1">
+		<CDI>
+			<ITEM>UPINGE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Chanson consacrée à Diane parmi les Grecs. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CHANSON1">CHANSON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ZA1">
+		<CDI>
+			<ITEM>ZA</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Syllabe par laquelle on distingue, dans Chant, le <italic>Si</italic> Bémol du
+					<italic>Si</italic> naturel auquel on laissé le nom de <italic>Si.</italic></p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="BUCOLIASME1">
+		<CDI>
+			<ITEM>BUCOLIASME</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ancienne Chanson des Bergers. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="CHANSON1">CHANSON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="C1">
+		<CDI>
+			<ITEM>C</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Cette lettre étoit, dans nos ancienne Musiques, le signe de la Prolation mineure
+					imparfaite, d'ou la même lettre est restée parmi nous celui de la Mesure à
+					quatre Tems, laquelle renferme exactement les mêmes valeurs de Notes. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MODE1">MODE</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="PROLATION1">PROLATION</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="C._BARRE1">
+		<CDI>
+			<ITEM>C. BARRE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Signe de la Mesure à quatre Tems vîtes, ou à deux Tems posés. Il se marque en
+					traversant le C de haut en bas par une ligne perpendiculaire à la Portée.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="C2">
+		<CDI>
+			<ITEM>C</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>sol ut</italic>, C <italic>sol fa ut</italic>, ou simplement C.
+					Caractere ou terme de Musique qui indique la premiere Note de la Gamme que nous
+					appellons ut. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="GAMME1">GAMME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> C'est aussi l'ancien signe d'une des trois Clefs de la Musique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="CLEF1">CLEF</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CACOPHONIE1">
+		<CDI>
+			<ITEM>CACOPHONIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Union discordante de plusieurs Sons mal choisis ou mal accordés. Ce mot vient de
+					χαχσς mauvais, &amp; de φωνη <italic>Son</italic>. Ainsi c'est mal-à-propos que
+					la plupart des Musiciens prononcent <italic>Cacaphonie</italic>. Peut-être
+					seront-ils, à la fin, passer cette prononciation, comme ils ont &amp; déjà fait
+					passer celle de <italic>Colophane</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CANARIE1">
+		<CDI>
+			<ITEM>CANARIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Espece de Gigue dont l'Air est dont l'air d'un mouvement encore plus vis que
+					celui de la Gigue ordinaire: c'est pourquoi l'on le marque quelquefois par 6/16:
+					cette Danse n'est plus en usage aujourd'hui. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="GIGUE1">GIGUE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="A_Livre_ouvert,_ou_A_l'ouverture_du_Livre1">
+		<CDI>
+			<ITEM>A Livre ouvert, ou A l'ouverture du Livre</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="LIVRE1">LIVRE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CANTO1">
+		<CDI>
+			<ITEM>CANTO</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot Italien, écrit dans une Partition sur la Portée vuide du premier Violon,
+					marque qu'il doit jouer à l'unisson sur la Partie chantante.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CATABAUCALESE1">
+		<CDI>
+			<ITEM>CATABAUCALESE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Chanson des Nourrices chez le Anciens. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="CHANSON1">CHANSON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CATACOUSTIQUE1">
+		<CDI>
+			<ITEM>CATACOUSTIQUE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Science qui a pour objet les Sons réfléchis, ou cette partie de l'Acoustique qui
+					considere les propriétés des Echos. Ainsi la <italic>Catacoustique</italic> est
+					à l'Acoustique ce que la Catoptrique est à l'Optique.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CATAPHONIQUE1">
+		<CDI>
+			<ITEM>CATAPHONIQUE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Science des Sons réfléchis qu'on appelle aussi Catacoustique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="CATACOUSTIQUE1">l'Article précédent</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CENTONISER1">
+		<CDI>
+			<ITEM>CENTONISER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. n.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Terme de Plain-Chant. C'est composer un Chant de traits recueillis &amp;
+					arrangés pour la Mélodie qu'on a en vue. Cette maniere de composer n'est pas de
+					l'invention des Symphoniastes modernes; puisque, selon l'Abbé Le Beuf, Saint
+					Grégoire lui-même à <italic>Centonisé</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CHANT_AMBROSIEN1">
+		<CDI>
+			<ITEM>CHANT AMBROSIEN</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Plain-Chant dont l'invention est attribuée à Saint Ambroise, Archevêque
+					de Milan. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="PLAIN-CHANT1">PLAIN-CHANT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CHANT_GREGORIEN1">
+		<CDI>
+			<ITEM>CHANT GREGORIEN</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Plain-Chant dont l'invention est attribuée à Saint Grégoire Pape, &amp;
+					qui a été substitué ou préféré dans la plupart des Eglises, au
+					<italic>Chant</italic> Ambrosien. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="PLAIN-CHANT1">PLAIN-CHANT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CHANT1">
+		<CDI>
+			<ITEM>CHANT</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>en ISON ou CHANT EGAL. On appelle ainsi un Chant ou une Psalmodie qui ne roule
+					que sur deux Sons &amp; ne forme, par conséquent, qu'un seul Intervalle.
+					Quelques Ordres Religieux n'ont dans leurs Eglises d'autre <italic>Chant que le
+					Chant en Ison</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CHANTERELLE1">
+		<CDI>
+			<ITEM>CHANTERELLE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Celle des cordes du Violon, &amp; des Instrumens semblables, qui a le Son le
+					plus aigu. On dit d'une Symphonie qu'elle ne quitte pas la
+					<italic>Chanterelle</italic>, lorsqu'elle ne roule qu'entre les Sons de cette
+					Corde &amp; ceux qui lui sont les plus voisins, comme sont presque toutes les
+					Parties de Violon des Opéra de Lully &amp; des Symphonies de son tems.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CHANTEUR1">
+		<CDI>
+			<ITEM>CHANTEUR</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Musicien qui chante dans un Concert.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CHAPEAU1">
+		<CDI>
+			<ITEM>CHAPEAU</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Trait demi-circulaire, dont on couvre deux ou plusieurs Notes, &amp; qu'on
+					appelle plus communément liaison. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="LIAISON1">LIAISON</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CHASSE1">
+		<CDI>
+			<ITEM>CHASSE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>On donne ce nom à certains Airs ou à certaines Fanfares de Cors ou d'autres
+					Instrumens qui réveillent, à ce qu'on dit, l'idée des Tons que ces mêmes Cors
+					donnent à la Chasse.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CHIFFRER1">
+		<CDI>
+			<ITEM>CHIFFRER</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est écrire sur les Notes de la Basse des <italic>Chiffres</italic> ou autres
+					caracteres indiquant les Accords que ces Notes doivent porter, pour servir de
+					guide à l'Accompagnateur. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="CHIFFRES1">CHIFFRES</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="ACCORD1">ACCORD</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CHORION1">
+		<CDI>
+			<ITEM>CHORION</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nome de la Musique Grecque, qui se chantoit en l'honneur de la mere des Dieux,
+					&amp; qui, dit-on, fut inventé par Olympe Phrygien.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CHORISTE1">
+		<CDI>
+			<ITEM>CHORISTE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Chanteur non récitant &amp; qui ne chante que dans les Chœurs.</p>
+				<p>On appelle aussi Choristes les Chantres d'Eglise qui chantent au Chœur.
+					<italic>Un Antienne à deux Choristes.</italic></p>
+				<p>Quelques Musiciens étrangers donnent encore le nom de <italic>Choriste</italic> à
+					un petit Instrument destiné à donner le Ton pour accorder les autres. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="TON1">Ton</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CHORUS1">
+		<CDI>
+			<ITEM>CHORUS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Faire Chorus, c'est a répéter en Chœur, à l'Unisson, ce qui vient d'être chanté
+					à voix seule.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CHRESES_ou_CHRESIS1">
+		<CDI>
+			<ITEM>CHRESES ou CHRESIS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Une des Parties de l'ancienne Mélopée, qui apprend au Composteur à mettre un tel
+					arrangement dans la suite diatonique des Sons, qu'il en résulte une bonne
+					Modulation &amp; une Mélodie agréable. Cette Partie s'applique à différentes
+					successions de Sons appellées par les Anciens, <italic>Agoge, Euthia,
+					Anacamptos</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="TIRADE1">TIRADE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CITHARISTIQUE1">
+		<CDI>
+			<ITEM>CITHARISTIQUE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Genre de Musique &amp; de Poésie, approprié à l'Accompagnement de la Cithare. Ce
+					Genre, dont Amphion, fils de Jupiter &amp; d'Antiope, sut l'inventeur, prit
+					depuis le nom de Lyrique.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="A_Tempo1">
+		<CDI>
+			<ITEM>A <italic>Tempo</italic></ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MESURE1">MESURE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="COMARCHIOS1">
+		<CDI>
+			<ITEM>COMARCHIOS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Sorte de Nome pour l'ancienne Musique des Grecs.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="COMPOSER1">
+		<CDI>
+			<ITEM>COMPOSER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. a.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Inventer de la Musique nouvelle, selon les regles de l'Art.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CONCERT_SPIRITUEL1">
+		<CDI>
+			<ITEM>CONCERT SPIRITUEL</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><ITEM_TRAITE>Concert</ITEM_TRAITE> qui tient lieu de Spectacle public à Paris, durant les
+					tems ou les autres Spectacles sont fermés. Il est établi au Château des
+					Tuileries; les Concertans y sont très-nombreux &amp; la Salle est fort bien
+					décorée: On y exécute des Mottets, des Symphonies, &amp; l'on se donne aussi le
+					plaisir d'y défigurer de tems en tems quelques Airs Italiens.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CONJOINTES1">
+		<CDI>
+			<ITEM>CONJOINTES</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Tétracorde des <italic>Conjointes</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SYNNÉMEN0N1">SYNNéMEN0N</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CONNEXE1">
+		<CDI>
+			<ITEM>CONNEXE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Terme de Plain-Chant. <U_RENVOI>
+					<TXTDisparaitre>(Voy. </TXTDisparaitre>
+					<RENVOI cible="MIXTE1">MIXTE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CONSONNANT1">
+		<CDI>
+			<ITEM>CONSONNANT</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Un Intervalle <italic>Consonnant</italic> est celui qui donne une
+					<italic>Consonnance</italic> ou qui en produit l'effet, ce qui arrive, en
+					certains cas, aux Dissonances par la forcé de la modulation. Un Accord
+					Consonnant est celui qui n'est composé que de <italic>Consonnances</italic>.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CONTRA1">
+		<CDI>
+			<ITEM>CONTRA</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom qu'on donnoit autrefois à la Partie qu'on appelloit plus communément Altus
+					&amp; qu'aujourd'hui nous nommons <italic>Haute-Contre</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="HAUTE-CONTRE1">HAUTE-CONTRE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CONTRAINT1">
+		<CDI>
+			<ITEM>CONTRAINT</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot s'applique, soit à la Harmonie, soit au Chant, soit à la valeur des
+					Notes, quand par la nature du dessein on s'est assujetti à une loi d'uniformité
+					dans quelqu'une de ces trois Parties. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="BASSE-CONTRAINTE1">BASSE-CONTRAIRE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CONTRA-TENOR1">
+		<CDI>
+			<ITEM>CONTRA-TENOR</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom donne dans les commencemens du Contre-point à la Partie qu'on a depuis
+					nommes <italic>Tenor ou Taille</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="TAILLE1">TAILLE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CONTRE-CHANT1">
+		<CDI>
+			<ITEM>CONTRE-CHANT</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom donne. par Gerson &amp; de par d'autres à ce qu'on appelloit alors plus
+					communément <RENVOI cible="DÉCHANT1">Déchant</RENVOI>, ou <RENVOI
+					cible="CONTRE_POINT1">Contre point</RENVOI>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez ces mots.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CONTRE-HARMONIQUE1">
+		<CDI>
+			<ITEM>CONTRE-HARMONIQUE</ITEM>
+			<U_GRAMMAIRE QUICK="adj">
+				<texte>adj.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom d'une sorte de proportion. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="PROPORTION1">PROPORTION</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CONTRE-PARTIE1">
+		<CDI>
+			<ITEM>CONTRE-PARTIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce terme ne s'emploie en Musique que pour signifier; une des deux Parties d'un
+					Duo considérée relativement à l'autre.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CONTRE-TEMS1">
+		<CDI>
+			<ITEM>CONTRE-TEMS</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Mesure à <italic>Contre-tems</italic> est celle où l'on pause sur le Tems
+					foible, où l'on glisse sur le Tems fort, &amp; où le Chant semble être en
+					Contre-sens avec la Mesure. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="SYNCOPE1">SYNCOPE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ACCORD_DISSONANT_FAUX_ACCORD_ACCORD_FAUX1">
+		<CDI>
+			<ITEM>ACCORD DISSONANT FAUX ACCORD ACCORD FAUX</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>sont autant de différentes choses qu'il ne faut pas confondre. <italic>Accord
+					dissonant</italic> est celui qui contient quelque Dissonance; <italic>Accord
+					faux</italic>, celui dont les Sons sont mal accordés, &amp; ne gardent pas entre
+					eux la justesse des Intervalles; <italic>faux Accord</italic>, celui qui choque
+					l'oreille, parce qu'il est mal composé, &amp; que les Sons, quoiques justes, n'y
+					forment pas un tout harmonique.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CORDE-A-JOUR_ou_CORDE-A-VIDE1">
+		<CDI>
+			<ITEM>CORDE-A-JOUR ou CORDE-A-VIDE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="VIDE1">VIDE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CORDES_MOBILES1">
+		<CDI>
+			<ITEM>CORDES MOBILES</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="MOBILE1">MOBILE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CORDES_STABLES1">
+		<CDI>
+			<ITEM>CORDES STABLES</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="STABLE1">STABLE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CORYPHÉE1">
+		<CDI>
+			<ITEM>CORYPHÉE</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Celui qui conduisoit le Chœur dans les Spectacles des Grecs, &amp; battoit la
+					mesure dans leur Musique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="BATTRE_LA_MESURE1">BATTRE LA MESURE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ACADÉMIE_de_MUSIQUE1">
+		<CDI>
+			<ITEM>ACADÉMIE de MUSIQUE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est ainsi qu'on appelloit autrefois en France, &amp; qu'on appelle encore en
+					Italie, une assemblée de Musiciens ou d'Amateurs, à laquelle les François ont
+					depuis donné le nom de Concert. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="CONCERT1">Concert</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="CRIER1">
+		<CDI>
+			<ITEM>CRIER</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est forcer tellement la voix en chantant, que les Sons n'en soient plus
+					appréciables, &amp; ressemblent plus à des cris qu'à du Chant. La Musique
+					Françoise veut être <italic>criée</italic>; c'est en cela que consiste sa plus
+					grande expression.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="D2">
+		<CDI>
+			<ITEM>D</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Cette lettre signifie la même chose dans la Musique Françoise que P. dans
+					l'Italienne; c'est-à-dire, <italic>Doux</italic>. Les Italiens l'emploient aussi
+					quelquefois de même pour le mot <italic>Dolce</italic>, &amp; ce mot
+					<italic>Dolce</italic> n'est pas seulement opposé à Fort; mais à Rude.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="D._C1">
+		<CDI>
+			<ITEM>D. C</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="DA_CAPO1">DA CAPO</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="D1">
+		<CDI>
+			<ITEM>D</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>la re</italic>, D <italic>sol re</italic>, ou simplement D. Deuxieme
+					Note de la Gamme naturelle ou Diatonique, laquelle s'appelle autrement Re. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="GAMME1">GAMME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DÉBIT1">
+		<CDI>
+			<ITEM>DÉBIT</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Récitation précipitée. Voyez l'Article suivant.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DECHANT_ou_DISCANT1">
+		<CDI>
+			<ITEM>DECHANT ou DISCANT</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Terme ancien par lequel on désignoit ce qu'on a depuis appellé Contre-point. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="CONTRE-POINT1">CONTRE-POINT</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DÉCLAMATION1">
+		<CDI>
+			<ITEM>DÉCLAMATION</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est, en Musique, l'art de rendre, par les inflexions &amp; le nombre de la
+					Mélodie, l'Accent grammatical &amp; l'Accent-oratoire, <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="ACCENT1">ACCENT</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="RÉCITATIF1">RÉCITATIF</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DÉDUCTION1">
+		<CDI>
+			<ITEM>DÉDUCTION</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Suite de Notes montant diatoniquement ou par Degrés conjoints. Ce terme n'est
+					gueres en usage que dans. le Plain-Chant.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DEMI-JEU,_A-DEMI-JEU_ou1">
+		<CDI>
+			<ITEM>DEMI-JEU, A-DEMI-JEU ou</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>simplement A DEMI. Terme de Musique instrumentale qui répond à l'Italien
+					<italic>Sotto voce</italic>, ou <italic>Mezza voce</italic>, ou <italic>Mezzo
+					forte</italic>, &amp; qui indique une maniere de jouer qui tienne le milieu
+					entre le Fort &amp; le Doux.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DEMI-MESURE1">
+		<CDI>
+			<ITEM>DEMI-MESURE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Espace de tems qui dure la moitie d'une Mesure. II n'y a proprement de
+					<italic>Demi-Mesures</italic> que dans les Mesures dont les Tems sont en nombre
+					pair: car dans la Mesure à trois Tems, la premiere <italic>Demi-Mesure</italic>
+					commence avec le tems fort, &amp; la seconde à contre-tems; ce qui les rend
+					inégales.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="ACCORDEUR1">
+		<CDI>
+			<ITEM>ACCORDEUR</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>On appelle <ITEM_TRAITE>accordeur</ITEM_TRAITE> d'Orgue ou de Clavecin, ceux qui vont
+					dans les Eglises ou dans les maisons accommoder &amp; accorder ces Instrumens,
+					&amp; qui, pour l'ordinaire, en sont aussi les Facteurs.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="OUI" id="DEMI-SOUPIR1">
+		<CDI>
+			<ITEM>DEMI-SOUPIR</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Caractere de Musique qui se fait comme il est marqué dans la <RENVOI cible=""
+					planche="OUI" vignette="9" page="D">Fig. 9. de la Pl. D.</RENVOI> &amp; qui
+					marque un silence dont la durée est égale à celle d'une Croche ou de la moitié
+					d'un Soupir. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="SOUPIR1">SOUPIR</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DEMI-TEMS1">
+		<CDI>
+			<ITEM>DEMI-TEMS</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Valeur qui dure exactement la moitié d'un Tems. Il faut appliquer au
+					<italic>Demi-Tems</italic>, par rapport au Tems, ce que j'ai dit ci-devant de la
+					Demi-Mesure par rapport à la Mesure.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DEMI-TON1">
+		<CDI>
+			<ITEM>DEMI-TON</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Intervalle de Musique valant à-peu-près la moitié d'un Ton, &amp; qu'on appelle
+					plus communément <italic>Semi-Ton</italic> <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="SEMI-TON">Semi-Ton</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DESCENDRE1">
+		<CDI>
+			<ITEM>DESCENDRE</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. n.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est baisser la voix, <italic>vocem remittere</italic>; c'est faire succéder
+					les Sons de l'aigu au grave, ou du haut au bas. Cela se présente à l'oeil par
+					notre maniere de Noter.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DESSINER1">
+		<CDI>
+			<ITEM>DESSINER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. a.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Faire le Dessein d'une Pièce ou d'un morceau de Musique. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="DESSEIN1">DESSEIN</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> <italic>Ce Compositeur</italic> Dessine <italic>bien ses ouvrages.
+					Voilà un choeur fort mal</italic> Dessiné.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DETACHE1">
+		<CDI>
+			<ITEM>DETACHE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>parti. pris substantivement</italic>. Genre d'exécution par lequel, au
+					lieu de soutenir les Notes durant toute leur valeur, on les sépare par des
+					silences pris sur cette même valeur. Le <italic>Détaché</italic>, tout-à-fait
+					bref &amp; sec, se marque sur les Notes par des points alongés.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DIAGRAMME1">
+		<CDI>
+			<ITEM>DIAGRAMME</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'étoit, dans la Musique ancienne, la Table ou le modele qui présentoit à l'oeil
+					l'étendue générale de tous les Sons d'un systême, ou ce que nous appellons
+					aujourd'hui, <RENVOI cible="ECHELLE1">Echelle</RENVOI>, <RENVOI cible="GAMME1"
+					>Gamme</RENVOI>, <RENVOI cible="CLAVIER1">Clavier</RENVOI>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez ces mots.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DIAPENTER1">
+		<CDI>
+			<ITEM>DIAPENTER</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>en latin</italic> DIAPENTISSARE, v. n. Mot barbare employé par Muris
+					&amp; par nos anciens Musiciens. <U_RENVOI>
+					<TXTDisparaitre>(Voyez</TXTDisparaitre>
+					<RENVOI cible="QUINIER1">QUINIER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DIAPHONIE1">
+		<CDI>
+			<ITEM>DIAPHONIE</ITEM>
+			<U_GRAMMAIRE QUICK="NF">
+				<texte>s. f.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Nom donne par les Grecs à tout Intervalle ou Accord dissonant, parce que les
+					deux Sons se choquant mutuellement, se divisent, pour ainsi dire, &amp; sont
+					sentir désagréablement leur différence. Gui Arétin donne aussi le nom de
+					<italic>Diaphonie</italic> à ce qu'on a depuis appellé <italic>Discant</italic>,
+					à cause des deux Parties qu'on y distingue.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DIASCHISMA1">
+		<CDI>
+			<ITEM>DIASCHISMA</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est, dans la Musique ancienne, un Intervalle faisant la moitié du semi-Ton
+					mineur. Le rapport en est de, &amp; par conséquent irrationnel.</p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DIASTEME1">
+		<CDI>
+			<ITEM>DIASTEME</ITEM>
+			<U_GRAMMAIRE QUICK="NM">
+				<texte>s. m.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>Ce mot, dans la Musique ancienne, signifie proprement Intervalle, &amp; c'est le
+					nom que donnoient les Grecs à l'<italic>Intervalle</italic> simple, par
+					opposition à l'Intervalle composé qu'ils appelloient <italic>Systême</italic>. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="INTERVALLE1">INTERVALLE</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="SYSTÈME1">SYSTÈME</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DIATESSERONER1">
+		<CDI>
+			<ITEM>DIATESSERONER</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>en latin</italic> DIATESSERONARE, v. n. Mot barbare employé par Muris
+					&amp; par nos anciens Musiciens. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="QUARTER1">QUARTER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ACADÉMIE_ROYALE_de_MUSIQUE1">
+		<CDI>
+			<ITEM>ACADÉMIE ROYALE de MUSIQUE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est le titre que porte encore aujourd'hui l'Opéra de Paris. Je ne dirai rien
+					ici de cet établissement célebre, sinon que de toutes les Académies du Royaume
+					&amp; du Monde, c'est assurément celle qui fait le plus de bruit. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="OPERA1">OPERA</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DIESER1">
+		<CDI>
+			<ITEM>DIESER</ITEM>
+			<U_GRAMMAIRE QUICK="v">
+				<texte>v. a.</texte>
+			</U_GRAMMAIRE>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est armer la Chef de Dièses, pour changer l'ordre &amp; le lieu des semi-Tons
+					majeurs, ou donner a quelque Note un Dièse accidentel, soit pour le Chant, soit
+					pour la Modulation. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="DIÈSE1">Dièse</RENVOI>
+					<TXTDisparaitre>)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="ACTE_DE_CADENCE1">
+		<CDI>
+			<ITEM>ACTE DE CADENCE</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p>C'est un mouvement dans une des Parties, &amp; sur-tout dans la Basse, qui oblige
+					toutes les autres Parties à concourir à former une Cadence, ou à l'éviter
+					expressément. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="CADENCE1">CADENCE</RENVOI>
+					<TXTDisparaitre>,</TXTDisparaitre>
+					<RENVOI cible="EVITER1">EVITER</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+	<ARTICLE RELU="NON" id="DIEZEUGMENON1">
+		<CDI>
+			<ITEM>DIEZEUGMENON</ITEM>
+		</CDI>
+		<CDT>
+			<DEFINITION>
+				<p><italic>génit. fém. plur</italic>. Tétracorde <italic>Diezeugmenon ou des
+					Séparées</italic>, est le nom que donnoient les Grecs à leur troisieme
+					Tétracorde, quand il étoit disjoint d'avec le second. <U_RENVOI>
+					<TXTDisparaitre>(Voyez </TXTDisparaitre>
+					<RENVOI cible="TÉTRACORDE1">TÉTRACORDE</RENVOI>
+					<TXTDisparaitre>.)</TXTDisparaitre>
+					</U_RENVOI> </p>
+			</DEFINITION>
+		</CDT>
+	</ARTICLE>
+</DMJJR>

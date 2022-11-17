@@ -1,0 +1,131 @@
+
+:root{
+   /* var () */ 
+   --Pop : #aaada9; 
+   --dark_back : #6C7049; 
+   --light_back : #ADA685 ; 
+   --dead_back : #8E9B90 ; 
+   --Warning : #9A3B3D ; 
+}
+
+@media only screen and (max-width: 600px) {
+body{
+   background-color: var(--light_back);
+}
+a{color : inherit}
+   .CDI{
+background-color: var(--dark_back) ;
+position: sticky;
+top : 0 ; 
+left : 0 ; 
+right : 0 ; 
+padding: 3%;
+z-index: 1;
+}
+.CDT{
+position : relative ;  
+/*z-index: -1;*/
+}
+
+div.DEFINITION{
+   text-align: justify;
+text-indent: 5%;
+}
+
+
+/* SPAN */
+
+p.ITEMSEUL{
+   margin-bottom: 0%;
+}
+p.ITEMS{
+   margin-bottom: 0%; 
+}
+span.separateurItem{
+   font-weight: lighter;
+   color: gray; 
+}
+span.ITEM{
+   font-style: oblique;
+}
+
+
+
+
+a.p_nonRENVOI{
+   text-decoration: line-through;
+}
+
+a.RENVOI{
+
+}
+
+.p_planche{
+
+}
+
+a.p_RENVOI{
+   font-weight: bold;
+   text-transform: uppercase;
+}
+
+.nonRENVOI{
+   text-decoration: line-through;
+}
+p.U_GRAMMAIRE{
+   text-align: end;
+   margin-top: 0%;
+}
+
+
+.GRAM{
+   font-weight: bold;
+}
+.U_RENVOI{}
+a.RENVOI{}
+
+.planche{}
+
+
+}
+
+.italic{
+   
+}
+.ITEM_TRAITE{
+   
+}
+.bold{
+   
+}
+.AUTRE{ /* grec */
+   font-family: sans-serif;
+}
+
+.footer {
+   bottom: 0;
+   background-color: var(--dead_back);
+   position: sticky;
+left : 0 ; 
+right : 0 ; 
+padding: 3%;
+z-index: 1;
+}
+img {
+   height: 3em;
+   size: 5em;
+   size-adjust: 10em;
+}
+
+/* dans menu */ 
+.itemTraité {
+   color : blue ;
+}
+.ButtonOff{
+
+}
+li {
+   list-style: none;
+   text-align: center;
+   background-color: var(--light_back);
+}

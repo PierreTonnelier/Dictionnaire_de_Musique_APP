@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>DMJJR</title>
+      <meta lang="fr">
+      <meta name="theme-color" content="#ADA685"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="manifest" href="/manifest.webmanifest"/>
+      <script type="text/javascript" src="/DOC/function.js"></script>
+      <link rel="apple-touch-icon" href="/DOC/rsz_logo_car.png"/>
+      <link rel="stylesheet" type="text/css" href="/DOC/DECO.css">
+      <script>
+			if (navigator.serviceWorker) {
+            navigator.serviceWorker.register('/service_worker1.js').then(function(registration) {
+               console.log('ServiceWorker registration successful with scope:',  registration.scope);
+            }).catch(function(error) {
+               console.log('ServiceWorker registration failed:', error);
+            });
+         }
+   </script>
+            </head>
+   <body>
+      <div class="CDI">
+         <p class="ITEMSEUL">home</p>
+         <p class="U_GRAMMAIRE">
+            							(
+            							<span class="GRAM">s. m.</span>
+            							)
+            						</p>
+      </div>
+      <div class="CDT">
+         <div class="DEFINITION">
+            <p>
+               								MAISON
+               							</p>
+         </div>
+      </div>
+      <div id="buttons"><button onclick="Menu('')">A-Z</button><button onclick="location.href='../home.html'">Home</button><button onclick="recherche()">Q</button></div>
+   </body>
+</html>
