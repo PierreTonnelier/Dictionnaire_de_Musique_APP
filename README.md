@@ -18,4 +18,4 @@ Je vous remercie pour le temps que vous allez passer dessus et je vous prie de b
 
 
 
-# La première page de l'application / pages HTML est nomé 'home.html'. 
+# La première page de l'application / pages HTML est nommé 'home.html'. 
