@@ -1,5 +1,28 @@
+
+
+function Mode_aléa (){
+    Css_var = ["Pop", "dark_back", "light_back", "dead_back", "Warning", "Warning2", "police"] ; 
+    root = document.querySelector(':root') ; 
+
+    function couleur(){
+        R = Math.floor(Math.random() * 255) ; 
+        G = Math.floor(Math.random() * 255) ; 
+        B = Math.floor(Math.random() * 255) ; 
+        return("rgb(" + R + ',' + G + ',' + B + ')') ; 
+    }
+
+    for (ele of Css_var){
+        coul = couleur() ; 
+        root.style.setProperty('--' + ele, coul) ; 
+    }
+}
+
+
+
+
+
 function planche(planche, vignette) {
-    alert(planche + ':' + vignette + ":: Pop up de la photo de la vignette à mettre en place ") ; 
+    alert("planche :: " + planche + ':' + vignette + ":: Pop up de la photo de la vignette à mettre en place ") ; 
 }
 
 function Menu (article){
@@ -63,14 +86,15 @@ function affichageDix(Dix, id){
                 nb = /\d/ ;  
                 text = text.replace(nb, '') ;
                 text = text.replace('_', ' ') ; 
+                text = text.replace('_', ' ') ; 
+                text = text.replace('_', ' ') ; 
                 text = document.createTextNode(text) ; 
-
                 li = document.createElement('li') ; 
+                a = document.createElement("button") ; 
                 if (Dix[i] == id){
-                    li.setAttribute("class", "itemTraité") ; 
+                    a.setAttribute("class", "itemTraité") ; 
                 }
-                a = document.createElement("a") ; 
-                a.setAttribute('href', Dix[i] + '.html') ; 
+                a.setAttribute('onclick', "location.href='"+ Dix[i] + ".html'") ; 
                 a.appendChild(text) ; /* a modif */
                 li.appendChild(a) ; /* a modif */
                 ul.appendChild(li) ; 
@@ -104,7 +128,7 @@ function butOff(){
 }
 
 
-function recherche(){
+function recherche(article){
     art = document.getElementById('ARTICLE'); 
     art.style.display = "none" ; 
 
@@ -119,19 +143,31 @@ function recherche(){
         body = body[0] ; 
         let menu = document.createElement('div') ; 
         menu.setAttribute('id', 'menu') ; 
+        let input = document.createElement("input") ; 
+        input.setAttribute('type','text'); 
+        input.setAttribute('id','mySearch'); 
+        input.setAttribute('onkeyup','myFunctionSideNav()'); 
+        input.setAttribute('placeholder','Recherche...');
+        input.setAttribute('title','Tapez votre recherche'); 
         let ul = document.createElement('ul') ; 
+        ul.setAttribute('id', 'myMenu') ; 
 
-        for( i = 0 ; i < data.length ; i++ ){
+        for( i = 0 ; i < data.length - 1 ; i++ ){
             text = data[i] ; 
             nb = /\d/ ; 
             text = text.replace(nb, '') ; 
+            text = text.replace('_', ' ') ;
+            text = text.replace('_', ' ') ;
             text = text.replace('_', ' ') ; 
             text = document.createTextNode(text) ; 
             li = document.createElement('li') ; 
-            a = document.createElement("a") ; 
-            a.setAttribute('href', data[i] + '.html') ; 
-            a.appendChild(text) ; /* a modif */
-            li.appendChild(a) ; /* a modif */
+            let button_ = document.createElement('button') ; 
+            button_.setAttribute('onclick', "location.href='" + data[i] + ".html'") ;
+            if (article == data[i]){
+                button_.setAttribute("class", "itemTraité") ; 
+            }
+            button_.appendChild(text) ; /* a modif */
+            li.appendChild(button_) ; /* a modif */
             ul.appendChild(li) ; 
         }
 
@@ -141,12 +177,29 @@ function recherche(){
         txtbutton = document.createTextNode("X") ; 
         button.appendChild(txtbutton) ; 
         menu.appendChild(button) ; 
+        menu.appendChild(input) ;
         menu.appendChild(ul) ; 
         body.appendChild(menu) ; 
 
     }
-
 }
 
+
+//Barre de Recherche
+function myFunctionSideNav() {
+        var input, filter, ul, li, a, i;
+        input = document.getElementById("mySearch");
+        filter = input.value.toUpperCase();
+        ul = document.getElementById("myMenu");
+        li = ul.getElementsByTagName("li");
+        for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("button")[0];
+        if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+        li[i].style.display = "";
+        } else {
+        li[i].style.display = "none";
+        }
+        }
+        }
 
 

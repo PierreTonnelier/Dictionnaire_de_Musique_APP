@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <script>
+        function go(){
+            for (i = 1 ; i <= 5 ; i++){
+                let couleur = "#" + document.getElementById(i).value ; 
+                celule = document.getElementsByClassName(i) ; 
+                for (element of celule){
+                    element.style.backgroundColor = couleur ;
+                }
+            }
+        }
+
+    </script>
+    <style>
+        body{
+            position: absolute ;
+            left : 0 ; 
+            right : 0 ; 
+        }
+        table {
+            position: absolute ;
+            left : 0 ; 
+            right : 0 ; 
+        }
+    </style>
+    <ul>
+        <li>1# - <input id="1" type="text"/></li>
+        <li>2# - <input id="2" type="text"/></li>
+        <li>3# - <input id="3" type="text"/></li>
+        <li>4# - <input id="4" type="text"/></li>
+        <li>5# - <input id="5" type="text"/></li>
+        <li><button onclick="go()">launch</button></li>
+    </ul>
+    <table>
+        <tr>
+            <td class="1"><p>_-_1_-_</p></td>
+            <td class="2"><p>_-_2_-_</p></td>
+            <td class="3"><p>_-_3_-_</p></td>
+            <td class="4"><p>_-_4_-_</p></td>
+            <td class="5"><p>_-_5_-_</p></td>
+        </tr>
+        <tr>
+            <td class="2"><p>_-_2_-_</p></td>
+            <td class="3"><p>_-_3_-_</p></td>
+            <td class="4"><p>_-_4_-_</p></td>
+            <td class="5"><p>_-_5_-_</p></td>
+            <td class="1"><p>_-_1_-_</p></td>
+        </tr>
+        <tr>
+            <td class="3"><p>_-_3_-_</p></td>
+            <td class="4"><p>_-_4_-_</p></td>
+            <td class="5"><p>_-_5_-_</p></td>
+            <td class="1"><p>_-_1_-_</p></td>
+            <td class="2"><p>_-_2_-_</p></td>
+        </tr>
+        <tr>
+            <td class="4"><p>_-_4_-_</p></td>
+            <td class="5"><p>_-_5_-_</p></td>
+            <td class="1"><p>_-_1_-_</p></td>
+            <td class="2"><p>_-_2_-_</p></td>
+            <td class="3"><p>_-_3_-_</p></td>
+        </tr>
+        <tr>
+            <td class="5"><p>_-_5_-_</p></td>
+            <td class="1"><p>_-_1_-_</p></td>
+            <td class="2"><p>_-_2_-_</p></td>
+            <td class="3"><p>_-_3_-_</p></td>
+            <td class="4"><p>_-_4_-_</p></td>
+        </tr>
+    </table>
+</body>
+</html>

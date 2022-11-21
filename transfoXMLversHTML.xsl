@@ -118,7 +118,7 @@
 		<div id="buttons">
 			<button onclick="Menu('{@id}')">A-Z</button>
 			<button onclick="location.href='../home.html'">Home</button>
-			<button onclick="recherche()">Q</button>
+			<button onclick="recherche('{@id}')">Q</button>
 		</div>
 	</xsl:template>
 

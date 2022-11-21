@@ -1,70 +1,199 @@
 
 :root{
-   /* var () */ 
+   /* var () */
+
    --Pop : #aaada9; 
-   --dark_back : #6C7049; 
-   --light_back : #ADA685 ; 
-   --dead_back : #8E9B90 ; 
-   --Warning : #9A3B3D ; 
+   --dark_back : #00FF00 ; 
+   --light_back : #322a1d ; 
+   --dead_back : #505050 ; 
+   --Warning : #a18f87 ; ; 
+   --Warning2 : #39322f ;
+   --police : #fffaf5 ; 
+
+
+
+   /* 
+   --Pop : #aaada9; 
+   --dark_back : #cca9a7 ; 
+   --light_back : #fffaf5 ; 
+   --dead_back : #e1cfc7 ; 
+   --Warning : #5E0500 ; ; 
+   --Warning2 : #850700 ;
+   --police : #000000 ; 
+
+   */
 }
 
+p{
+   color : var(--police) ; 
+}
+
+
+
+
+/** media - width 600px  **/ 
 @media only screen and (max-width: 600px) {
-body{
-   background-color: var(--light_back);
-}
-a{color : inherit}
+   body{
+      background-color: var(--light_back);
+   }
    .CDI{
-background-color: var(--dark_back) ;
-position: sticky;
-top : 0 ; 
-left : 0 ; 
-right : 0 ; 
-padding: 3%;
-z-index: 1;
+      background-color: var(--Warning) ;
+      position: sticky;
+      top : 0 ; 
+      left : 0 ; 
+      right : 0 ; 
+      padding: 3%;
+      z-index: 1;
+   }
+   #ARTICLE {
+      height: 100%;
+   }
+   .CDT{
+      position : relative ;
+      height: 100%;
+   /*z-index: -1;*/
+   }
+
+   .footer {
+      bottom: 5%;
+      background-color: var(--dead_back);
+      position: absolute;
+      left : 0 ; 
+      right : 0 ;
+      padding: 3%;
+      z-index: 1;
+   }
+
+   #buttons {
+      position : absolute ; 
+      background-color: var(--light_back);
+      left : 0 ; 
+      right : 0 ; 
+      bottom: 1px ;
+      height: 5%;
+
+   }
+   div#buttons > button {
+      position: relative;
+      margin: 0%;
+      margin-left: 1%;
+      color : var(--light_back) ; 
+      background-color: var(--Warning);
+      width: 32%;
+   } 
+   div#buttons > button:hover {
+      background-color: var(--Warning2);
+   }
+
+
+   #menu {
+      top : 0;
+      bottom: 0;
+      left: 0;
+      right:0;
+      position: absolute; 
+
+      background-color:var(--light_back);
+   }
+   #menu > ul {
+      top : 0;
+      bottom: 0;
+      left: 0;
+      right:0;
+      position: absolute; 
+      margin-top: 6%;   
+      padding-left: 0%;
+   }
+   #menu > ul > li {
+      height: 10%;
+   }
+   #menu > ul > li > button {
+      height: 100%;
+      width: 100%;
+      background-color: var(--light_back);
+      position: relative ; 
+   }
+
+   #mySearch{
+      height : 17% ; 
+   }
+
+   #menu > ul > li > button:hover {
+      background-color: var(--dead_back) ;
+   }
+   #menu > .ButtonOff{
+      right : 0 ;
+      border: none;
+      background-color: var(--Warning2);
+      position: absolute ; 
+      color : var(--light_back) ; 
+      height: 5%;
+      width: 5%;
+      z-index: 1;
+   }
+
 }
-.CDT{
-position : relative ;  
-/*z-index: -1;*/
+
+/** media - width 600px  **/ 
+
+
+
+a{
+   color : inherit
 }
+
+
 
 div.DEFINITION{
    text-align: justify;
-text-indent: 5%;
+   text-indent: 5%;
 }
 
 
-/* SPAN */
+/* SPAN & P & A > */
 
-p.ITEMSEUL{
-   margin-bottom: 0%;
+.ITEMSEUL{
+   font-size : 2em ; 
+   margin-bottom: 0% ;
+   color : var(--light_back) ;
+   margin-left: 5%; 
 }
-p.ITEMS{
+
+p .ITEMS{
    margin-bottom: 0%; 
 }
+
 span.separateurItem{
    font-weight: lighter;
-   color: gray; 
-}
-span.ITEM{
-   font-style: oblique;
+   color: var(--light_back); 
+   font-style: italic;
 }
 
+span .ITEM{
+   font-size : 2em ; 
+   margin-bottom: 0% ;
+   margin-left: 5%;
+   color : var(--light_back)
+}
 
 
 
-a.p_nonRENVOI{
+
+a .p_nonRENVOI{
    text-decoration: line-through;
 }
 
-a.RENVOI{
-
+a .RENVOI{
+   text-decoration: underline;
+   text-transform: capitalize;
 }
 
 .p_planche{
-
+   text-decoration: underline;
+   font-style: italic;
 }
 
-a.p_RENVOI{
+a .p_RENVOI{
    font-weight: bold;
    text-transform: uppercase;
 }
@@ -72,44 +201,45 @@ a.p_RENVOI{
 .nonRENVOI{
    text-decoration: line-through;
 }
-p.U_GRAMMAIRE{
-   text-align: end;
+
+ .U_GRAMMAIRE{
+   text-align: end ;
+   color : var(--dark_back) ; 
    margin-top: 0%;
+   font-size: large;
+   margin-right: 5% ;
 }
 
 
 .GRAM{
    font-weight: bold;
 }
-.U_RENVOI{}
-a.RENVOI{}
 
-.planche{}
-
-
+.U_RENVOI{
+   font-family: 'Courier New', Courier, monospace;
 }
 
-.italic{
-   
+.planche{
+   font-style: italic;
 }
+
+
+
+
+.italic{ font-style: italic; }
+
 .ITEM_TRAITE{
-   
-}
-.bold{
-   
-}
-.AUTRE{ /* grec */
-   font-family: sans-serif;
+/*   font-weight: bold; */ 
+   text-transform: uppercase;
 }
 
-.footer {
-   bottom: 0;
-   background-color: var(--dead_back);
-   position: sticky;
-left : 0 ; 
-right : 0 ; 
-padding: 3%;
-z-index: 1;
+.bold{ font-weight: bold; }
+.AUTRE{ font-family: sans-serif; /* grec */ }
+
+/* </ SPAN & P & A */
+
+.footer{
+   color : var(--police); 
 }
 img {
    height: 3em;
@@ -117,13 +247,18 @@ img {
    size-adjust: 10em;
 }
 
-/* dans menu */ 
-.itemTraité {
-   color : blue ;
-}
-.ButtonOff{
 
+
+.itemTraité {
+   color : var(--Warning2) ;
 }
+
+/* dans menu */ 
+
+
+
+
+
 li {
    list-style: none;
    text-align: center;
